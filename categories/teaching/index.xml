@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Jane - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/categories/teaching/</link>
+    <description>Recent content in Teaching on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2023 16:01:23 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5-「被字句」課前思考</title>
+      <link>http://localhost:1313/post/demo/5-beigrammar/</link>
+      <pubDate>Thu, 29 Jun 2023 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/demo/5-beigrammar/</guid>
+      <description>這幾堂上課老師一直提醒的重點： 要能比較、評價教材的語法點，並且自行決定教學的順序 尋找情境，並且思考要怎麼導入情境 「被」跟「把」的確有相像之處</description>
+    </item>
+    
+    <item>
+      <title>4-「把字句」課前思考</title>
+      <link>http://localhost:1313/post/demo/4-bagrammar/</link>
+      <pubDate>Wed, 28 Jun 2023 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/demo/4-bagrammar/</guid>
+      <description>教材：《實用視聽華語》B2L7 &amp;amp; 《當代中文課程》B1L15、B2L6、L7、L10 上課前，請先思考： 1.這個語法點會怎麼教？ 2.有什麼問題與</description>
+    </item>
+    
+    <item>
+      <title>3-「是...的」課前思考</title>
+      <link>http://localhost:1313/post/demo/3-shi...degrammar/</link>
+      <pubDate>Wed, 21 Jun 2023 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/demo/3-shi...degrammar/</guid>
+      <description>以前老師講過「是…的」句的思考作業，現在重看，還是覺得這是一個蠻特別的語法。 （一）《當代中文》當中說話一直重複「是&amp;hellip;的」句： 「</description>
+    </item>
+    
+    <item>
+      <title>2-「了」課前思考課後感想</title>
+      <link>http://localhost:1313/post/demo/2-legrammar/</link>
+      <pubDate>Mon, 12 Jun 2023 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/demo/2-legrammar/</guid>
+      <description>「了」要是仔細來談，可以講到兩個小時都不嫌多； 不如化繁為簡，先挑重點來教吧。 學界一般將「了」分成（1）跟（2)種意義，前者表示完成，後者則表</description>
+    </item>
+    
+    <item>
+      <title>1-「得」課前思考</title>
+      <link>http://localhost:1313/post/demo/1-le/</link>
+      <pubDate>Tue, 06 Jun 2023 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/demo/1-le/</guid>
+      <description>教案設計的內容主要參考自《當代中文課程》，以《新版實用視聽華語》為輔。 首先我們可以看到「得」的語法出現在第一冊第五課「牛肉麵真好吃」，那個對</description>
+    </item>
+    
+  </channel>
+</rss>

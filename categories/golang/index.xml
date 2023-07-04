@@ -6,17 +6,7 @@
     <description>Recent content in golang on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Demo: toc</title>
-      <link>http://localhost:1313/post/demo/2-toc/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/demo/2-toc/</guid>
-      <description>Header This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-Header This tutorial will show you how to create a simple theme in Hugo.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo: toc, global toc is true, but this post should not show toc</title>
       <link>http://localhost:1313/post/other/test-toc/global-toc-except-this/</link>

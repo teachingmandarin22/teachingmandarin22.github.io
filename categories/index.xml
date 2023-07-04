@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 16:01:23 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/categories/teaching/</link>
+      <pubDate>Thu, 29 Jun 2023 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Development</title>
       <link>http://localhost:1313/categories/development/</link>
@@ -37,27 +46,9 @@
     <item>
       <title>golang</title>
       <link>http://localhost:1313/categories/golang/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>demo</title>
-      <link>http://localhost:1313/categories/demo/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>http://localhost:1313/categories/math/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/math/</guid>
       <description></description>
     </item>
     
@@ -67,6 +58,15 @@
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>http://localhost:1313/categories/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demo</title>
+      <link>http://localhost:1313/categories/demo/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/demo/</guid>
       <description></description>
     </item>
     
@@ -85,15 +85,6 @@
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>http://localhost:1313/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     
