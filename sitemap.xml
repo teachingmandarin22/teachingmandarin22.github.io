@@ -121,7 +121,14 @@
   </url>
   
   <url>
-    <loc>https://teachingmandarin22.github.io/tags/%E5%8F%B0%E8%AA%9E-categories-taiwanese/</loc>
+    <loc>https://teachingmandarin22.github.io/categories/taiwanese/</loc>
+    <lastmod>2023-05-11T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://teachingmandarin22.github.io/tags/%E5%8F%B0%E8%AA%9E/</loc>
     <lastmod>2023-05-11T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -137,118 +144,6 @@
   <url>
     <loc>https://teachingmandarin22.github.io/post/demo/20230418taiwanesegrammar/</loc>
     <lastmod>2023-04-18T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/post/other/test-toc/global-toc-except-this/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/tags/development/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/categories/development/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/tags/golang/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/categories/golang/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/categories/index/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/tags/templates/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/tags/themes/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/tags/toc/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/post/other/test-toc/no-header-dont-show-toc/</loc>
-    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/categories/demo/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/post/demo/7-shortcodes-preview/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/tags/preview/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/tags/shortcodes/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/categories/shortcodes/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://teachingmandarin22.github.io/tags/tag-6/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
