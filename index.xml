@@ -6,10 +6,85 @@
     <description>Recent content on 華語森友會</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2023 16:01:23 +0800</lastBuildDate>
     
         <atom:link href="https://teachingmandarin22.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>漢語語音學的問題大集合</title>
+      <link>https://teachingmandarin22.github.io/post/demo/7.phonetics/</link>
+      <pubDate>Fri, 14 Jul 2023 16:01:23 +0800</pubDate>
+      
+      <guid>https://teachingmandarin22.github.io/post/demo/7.phonetics/</guid>
+      
+        <description>&lt;p&gt;漢語語音學筆記，記載遇到的問題，以及一些可能的解方，慢慢增補。&lt;/p&gt;
+&lt;h1 id=&#34;一聲母&#34;&gt;一、聲母&lt;/h1&gt;
+&lt;h2 id=&#34;1消失的聲母&#34;&gt;（1）消失的聲母&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;濁唇齒擦音&lt;a href=&#34;https://zh.wikipedia.org/zh-tw/%E6%BF%81%E5%94%87%E9%BD%92%E6%93%A6%E9%9F%B3&#34;&gt;ㄪ&lt;/a&gt;/v/：與ㄈ清濁相配，應該已經清化了。&lt;/li&gt;
+&lt;li&gt;舌根鼻音ㄫ/ng/：現在已經不當聲母用了，但在漢語當中會拿來當中聲隨韻母ㄤㄥ的收音韻尾。但在華南各地的方言裡，仍然常見，例如台語的「硬」ngē、「五」ngóo。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;2聲母&#34;&gt;（2）聲母&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;舌根音ㄍㄎㄏ：把舌頭後段拱起來碰到軟顎的是ㄍㄎ，ㄏ沒有碰到軟顎。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;二韻母&#34;&gt;二、韻母&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;單韻母ㄜ：ㄜ仔細想想，「ㄜ」究竟要怎麼發音？回頭翻《國音學》，或者上網查資料，ㄜ的位置國音學裡頭是跟ㄛ放在一起，只是展唇；但事實上，ㄜ可能比ㄛ更高，也可能更央（而我也被老師指教要央一點，沒那麼後面）（補圖）&lt;/li&gt;
+&lt;li&gt;捲舌韻母：漢語只有一個捲舌韻母ㄦ，舌間向上對著硬顎捲起，不產生摩擦。&lt;/li&gt;
+&lt;li&gt;空韻ㄭ：
+&lt;ol&gt;
+&lt;li&gt;ㄭ/ʅ/前、高、展唇、舌尖後元音。前面跟上面一樣。舌尖向上升起，向後稍翹，到接近發ʐ音但不致摩擦的位置，唇形不圓。跟ㄓㄔㄕㄖ一起拼。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%C9%BF&#34;&gt;舌尖前不圓唇元音&lt;/a&gt;[ɿ]。跟ㄗㄘㄙ一起拼。&lt;/li&gt;
+&lt;li&gt;漢拼統拼為 i。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;三漢語拼音注音符號&#34;&gt;三、漢語拼音／注音符號&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;既然咱們的注音符號是按照發音部位排列，那為什麼不是ㄅㄆㄇㄈㄗㄘㄙㄉㄊㄋㄌㄓㄔㄕㄖㄐㄑㄒㄍㄎㄏ？
+&lt;ol&gt;
+&lt;li&gt;「等韻圖」 從右到左的發音部位順序 是 唇舌牙齒喉，所以注音符號也比照辦理「幫滂並明→端透定尼→見溪羣疑→精清從心(邪)→照穿牀審(禪)只是ㄗㄘㄙ放在最後面（？）」@irina&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;跟漢拼的轉換：麻煩的有六個：
+&lt;ol&gt;
+&lt;li&gt;ㄓ轉成 zh&lt;/li&gt;
+&lt;li&gt;ㄗ轉成 z&lt;/li&gt;
+&lt;li&gt;ㄘ轉成 c&lt;/li&gt;
+&lt;li&gt;ㄐ轉成 j&lt;/li&gt;
+&lt;li&gt;ㄑ轉成 q&lt;/li&gt;
+&lt;li&gt;ㄒ轉成 x&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;所以要怎麼教&#34;&gt;所以，要怎麼教？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;教語音，不是在教拼音系統（無論是哪一種拼音系統，都有優缺點）。
+&lt;ul&gt;
+&lt;li&gt;然而老師還是要選擇漢語拼音或者是注音符號，漢語拼音雖然直觀，但也會受到英語的干擾。&lt;/li&gt;
+&lt;li&gt;漢拼的缺點是有一些例外組合，也有空韻，教學上的坑洞很多。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;應該要做的是讓學生弄懂發音部位以及方法，有幾種策略：
+&lt;ul&gt;
+&lt;li&gt;發音器官圖（待補）：認識鼻腔、口腔（齒齦、硬顎、軟顎）、舌頭（舌尖、舌面、舌根）、喉頭（聲帶）&lt;/li&gt;
+&lt;li&gt;聲調圖&lt;/li&gt;
+&lt;li&gt;舌位變化、對比（先發鄰近音，再指示如何做出下一個音）&lt;/li&gt;
+&lt;li&gt;讓學生聽，再讓學生模仿跟練習，但除了機械式的練習之外，也要設計刻意的練習。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聲調：
+&lt;ul&gt;
+&lt;li&gt;有意義的詞句練習&lt;/li&gt;
+&lt;li&gt;變調是固定例外規則，而漢語變調比起閩南語或客語以及簡單很多&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
     
     <item>
       <title>6-「著」課前思考</title>
