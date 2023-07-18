@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://teachingmandarin22.github.io/post/krashen/</loc>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://teachingmandarin22.github.io/post/5-_bei_grammar-copy/</loc>
     <lastmod>2023-06-29T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,21 +73,21 @@
   
   <url>
     <loc>https://teachingmandarin22.github.io/categories/</loc>
-    <lastmod>2023-07-16T16:01:23+08:00</lastmod>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teachingmandarin22.github.io/tags/note/</loc>
-    <lastmod>2023-07-16T16:01:23+08:00</lastmod>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teachingmandarin22.github.io/post/</loc>
-    <lastmod>2023-07-16T16:01:23+08:00</lastmod>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -94,21 +101,21 @@
   
   <url>
     <loc>https://teachingmandarin22.github.io/tags/</loc>
-    <lastmod>2023-07-16T16:01:23+08:00</lastmod>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teachingmandarin22.github.io/categories/teaching/</loc>
-    <lastmod>2023-07-16T16:01:23+08:00</lastmod>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teachingmandarin22.github.io/</loc>
-    <lastmod>2023-07-16T16:01:23+08:00</lastmod>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -123,6 +130,20 @@
   <url>
     <loc>https://teachingmandarin22.github.io/tags/grammar/</loc>
     <lastmod>2023-07-11T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://teachingmandarin22.github.io/tags/krashen/</loc>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://teachingmandarin22.github.io/tags/second-language-acquisition/</loc>
+    <lastmod>2023-07-18T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
