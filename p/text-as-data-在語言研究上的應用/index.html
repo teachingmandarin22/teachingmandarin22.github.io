@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="zh-tw" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='老師本身是國企系畢業，後來跨社會語言學跟語言人類學。
+這個演講基本上是老師介紹最新的研究成果，列點如下，其實可以討論的東西超級多，之後看有沒有機會再寫個比較完整的文章。
+Text data 目前是很紅的研究，主要是用一些新方法例如：AI、數據科學、機器學習來回答社會科學，諸如質性研究無法解決的問題：
+Co-occirrence of keywords in State of the Union Discourse
+第一個是介紹了語言學家研究 30 年的國情咨文的講稿。分析每年的總統講稿主題的內容有什麼不同，關鍵字跟關鍵字有什麼差別。並且畫出資訊設計圖，標記出現頻率。不過研究結論我好像漏聽了。
+Connection between faulty placements and where they received their PHD
+語言學家研究人類學博士畢業後的去向，想要用資料視覺化來畫出學術世界的裙帶關係。
+當然，UC Berkeley 、Chicago、Havard、Michigan 所畫出來的四顆圈圈都是最大的，其他都是泡沫。
+這代表，學術界依然存在高度的不平等，人類學領域當中如果不是出自名校畢業，要找到工作會比較困難（跟研究資源、指導老師的人脈有關係）
+Detecting objectifying language in online professor review(waller &amp;amp; gorman 2020) rate professors.com
+這個研究是在探討學生在做教學評鑑時，跟老師的容貌有沒有關係？這樣的研究步驟是：如果是評論當中提到老師外貌，是否會跟教學好壞做連結？
+畫出圖之後，發現最早年蠻正相關，但是趨勢其實是下降的。這也許是因為這個網站裡頭本來的設定是「如果老師的課很熱門，會標上辣椒度」，然後學生似乎會下意識把辣椒數跟老師外貌做連結，在網站把辣椒取消之後，就沒什麼關聯了。
+接著，老師分享自己的研究！ Mediatized taiwanese mandarin: the role televised media in the formation of speaker sterotypes
+老師說他出國時，中國人都說他很有港台腔，例如很娘很嗲啊，因此他開始對「台灣華語」在中國人眼中的刻板印象非常有興趣。他撈了中國天涯論壇所有關於台灣腔的討論，用 text-mining 爬了 13,062 則評論，做了分析並資料視覺化，發表在 open linguistics。
+我試著寫老師提到的結論，不一定非常完整。
+老師認為，1970-1980 改革開放，有多來自港台的電視節目跟文化產品進入中國人民的視線。這文化產品又可分成兩種，一種是大陸明星模仿台灣腔、一種是真的台劇，他們對台灣人的刻板印象是自那時候開始出現的。'>
+<title>Text as data 在語言研究上的應用</title>
+
+<link rel='canonical' href='https://teachingmandarin22.github.io/p/text-as-data-%E5%9C%A8%E8%AA%9E%E8%A8%80%E7%A0%94%E7%A9%B6%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8/'>
+
+<link rel="stylesheet" href="/scss/style.min.abbd69b2908fdfcd5179898beaafd374514a86538d81639ddd2c58c06ae54e40.css"><meta property='og:title' content='Text as data 在語言研究上的應用'>
+<meta property='og:description' content='老師本身是國企系畢業，後來跨社會語言學跟語言人類學。
+這個演講基本上是老師介紹最新的研究成果，列點如下，其實可以討論的東西超級多，之後看有沒有機會再寫個比較完整的文章。
+Text data 目前是很紅的研究，主要是用一些新方法例如：AI、數據科學、機器學習來回答社會科學，諸如質性研究無法解決的問題：
+Co-occirrence of keywords in State of the Union Discourse
+第一個是介紹了語言學家研究 30 年的國情咨文的講稿。分析每年的總統講稿主題的內容有什麼不同，關鍵字跟關鍵字有什麼差別。並且畫出資訊設計圖，標記出現頻率。不過研究結論我好像漏聽了。
+Connection between faulty placements and where they received their PHD
+語言學家研究人類學博士畢業後的去向，想要用資料視覺化來畫出學術世界的裙帶關係。
+當然，UC Berkeley 、Chicago、Havard、Michigan 所畫出來的四顆圈圈都是最大的，其他都是泡沫。
+這代表，學術界依然存在高度的不平等，人類學領域當中如果不是出自名校畢業，要找到工作會比較困難（跟研究資源、指導老師的人脈有關係）
+Detecting objectifying language in online professor review(waller &amp;amp; gorman 2020) rate professors.com
+這個研究是在探討學生在做教學評鑑時，跟老師的容貌有沒有關係？這樣的研究步驟是：如果是評論當中提到老師外貌，是否會跟教學好壞做連結？
+畫出圖之後，發現最早年蠻正相關，但是趨勢其實是下降的。這也許是因為這個網站裡頭本來的設定是「如果老師的課很熱門，會標上辣椒度」，然後學生似乎會下意識把辣椒數跟老師外貌做連結，在網站把辣椒取消之後，就沒什麼關聯了。
+接著，老師分享自己的研究！ Mediatized taiwanese mandarin: the role televised media in the formation of speaker sterotypes
+老師說他出國時，中國人都說他很有港台腔，例如很娘很嗲啊，因此他開始對「台灣華語」在中國人眼中的刻板印象非常有興趣。他撈了中國天涯論壇所有關於台灣腔的討論，用 text-mining 爬了 13,062 則評論，做了分析並資料視覺化，發表在 open linguistics。
+我試著寫老師提到的結論，不一定非常完整。
+老師認為，1970-1980 改革開放，有多來自港台的電視節目跟文化產品進入中國人民的視線。這文化產品又可分成兩種，一種是大陸明星模仿台灣腔、一種是真的台劇，他們對台灣人的刻板印象是自那時候開始出現的。'>
+<meta property='og:url' content='https://teachingmandarin22.github.io/p/text-as-data-%E5%9C%A8%E8%AA%9E%E8%A8%80%E7%A0%94%E7%A9%B6%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8/'>
+<meta property='og:site_name' content='華語森友會'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='Note' /><meta property='article:tag' content='講座' /><meta property='article:published_time' content='2023-05-20T16:01:23&#43;08:00'/><meta property='article:modified_time' content='2023-05-20T16:01:23&#43;08:00'/>
+<meta name="twitter:title" content="Text as data 在語言研究上的應用">
+<meta name="twitter:description" content="老師本身是國企系畢業，後來跨社會語言學跟語言人類學。
+這個演講基本上是老師介紹最新的研究成果，列點如下，其實可以討論的東西超級多，之後看有沒有機會再寫個比較完整的文章。
+Text data 目前是很紅的研究，主要是用一些新方法例如：AI、數據科學、機器學習來回答社會科學，諸如質性研究無法解決的問題：
+Co-occirrence of keywords in State of the Union Discourse
+第一個是介紹了語言學家研究 30 年的國情咨文的講稿。分析每年的總統講稿主題的內容有什麼不同，關鍵字跟關鍵字有什麼差別。並且畫出資訊設計圖，標記出現頻率。不過研究結論我好像漏聽了。
+Connection between faulty placements and where they received their PHD
+語言學家研究人類學博士畢業後的去向，想要用資料視覺化來畫出學術世界的裙帶關係。
+當然，UC Berkeley 、Chicago、Havard、Michigan 所畫出來的四顆圈圈都是最大的，其他都是泡沫。
+這代表，學術界依然存在高度的不平等，人類學領域當中如果不是出自名校畢業，要找到工作會比較困難（跟研究資源、指導老師的人脈有關係）
+Detecting objectifying language in online professor review(waller &amp;amp; gorman 2020) rate professors.com
+這個研究是在探討學生在做教學評鑑時，跟老師的容貌有沒有關係？這樣的研究步驟是：如果是評論當中提到老師外貌，是否會跟教學好壞做連結？
+畫出圖之後，發現最早年蠻正相關，但是趨勢其實是下降的。這也許是因為這個網站裡頭本來的設定是「如果老師的課很熱門，會標上辣椒度」，然後學生似乎會下意識把辣椒數跟老師外貌做連結，在網站把辣椒取消之後，就沒什麼關聯了。
+接著，老師分享自己的研究！ Mediatized taiwanese mandarin: the role televised media in the formation of speaker sterotypes
+老師說他出國時，中國人都說他很有港台腔，例如很娘很嗲啊，因此他開始對「台灣華語」在中國人眼中的刻板印象非常有興趣。他撈了中國天涯論壇所有關於台灣腔的討論，用 text-mining 爬了 13,062 則評論，做了分析並資料視覺化，發表在 open linguistics。
+我試著寫老師提到的結論，不一定非常完整。
+老師認為，1970-1980 改革開放，有多來自港台的電視節目跟文化產品進入中國人民的視線。這文化產品又可分成兩種，一種是大陸明星模仿台灣腔、一種是真的台劇，他們對台灣人的刻板印象是自那時候開始出現的。"><script async src="https://www.googletagmanager.com/gtag/js?id=G-4265GH4GXS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4265GH4GXS');
+</script>
+  </head>
+  <body>
+    <div id="back-to-top"></div>
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_huda2458f72ce188392d75c5d51cd8e24e_373_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">華語森友會</a></h1>
+            <h2 class="site-description">記錄華語教學，語言學習的心得</h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href='https://github.com/CaiJimmy/hugo-theme-stack'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com'
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+
+        <div class="menu-bottom-section">
+                <li id="i18n-switch">  
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                    <select name="language" onchange="window.location.href = this.selectedOptions[0].value">
+                        
+                            <option value="https://teachingmandarin22.github.io/zh-tw/" >中文</option>
+                        
+                            <option value="https://teachingmandarin22.github.io/" selected>English</option>
+                        
+                    </select>
+                </li>
+            
+            
+            
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
+        </div>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#接著老師分享自己的研究">接著，老師分享自己的研究！</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/learning/" >
+                Learning
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/text-as-data-%E5%9C%A8%E8%AA%9E%E8%A8%80%E7%A0%94%E7%A9%B6%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8/">Text as data 在語言研究上的應用</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">May 20, 2023</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    1 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>老師本身是國企系畢業，後來跨社會語言學跟語言人類學。</p>
+<p>這個演講基本上是老師介紹最新的研究成果，列點如下，其實可以討論的東西超級多，之後看有沒有機會再寫個比較完整的文章。</p>
+<p>Text data 目前是很紅的研究，主要是用一些新方法例如：AI、數據科學、機器學習來回答社會科學，諸如質性研究無法解決的問題：</p>
+<ol>
+<li>
+<p>Co-occirrence of keywords in State of the Union Discourse</p>
+<p>第一個是介紹了語言學家研究 30 年的國情咨文的講稿。分析每年的總統講稿主題的內容有什麼不同，關鍵字跟關鍵字有什麼差別。並且畫出資訊設計圖，標記出現頻率。不過研究結論我好像漏聽了。</p>
+</li>
+<li>
+<p>Connection between faulty placements and where they received their PHD</p>
+<p>語言學家研究人類學博士畢業後的去向，想要用資料視覺化來畫出學術世界的裙帶關係。</p>
+<p>當然，UC Berkeley 、Chicago、Havard、Michigan 所畫出來的四顆圈圈都是最大的，其他都是泡沫。</p>
+<p>這代表，學術界依然存在高度的不平等，人類學領域當中如果不是出自名校畢業，要找到工作會比較困難（跟研究資源、指導老師的人脈有關係）</p>
+</li>
+<li>
+<p>Detecting objectifying language in online professor review(waller &amp; gorman 2020) rate <a class="link" href="http://professors.com/"  target="_blank" rel="noopener"
+    >professors.com</a></p>
+<p>這個研究是在探討學生在做教學評鑑時，跟老師的容貌有沒有關係？這樣的研究步驟是：如果是評論當中提到老師外貌，是否會跟教學好壞做連結？</p>
+<p>畫出圖之後，發現最早年蠻正相關，但是趨勢其實是下降的。這也許是因為這個網站裡頭本來的設定是「如果老師的課很熱門，會標上辣椒度」，然後學生似乎會下意識把辣椒數跟老師外貌做連結，在網站把辣椒取消之後，就沒什麼關聯了。</p>
+</li>
+</ol>
+<h3 id="接著老師分享自己的研究">接著，老師分享自己的研究！</h3>
+<p>Mediatized taiwanese mandarin: the role televised media in the formation of speaker sterotypes</p>
+<p>老師說他出國時，中國人都說他很有港台腔，例如很娘很嗲啊，因此他開始對「台灣華語」在中國人眼中的刻板印象非常有興趣。他撈了中國天涯論壇所有關於台灣腔的討論，用 text-mining 爬了 13,062 則評論，做了分析並資料視覺化，發表在 open linguistics。</p>
+<p>我試著寫老師提到的結論，不一定非常完整。</p>
+<p>老師認為，1970-1980 改革開放，有多來自港台的電視節目跟文化產品進入中國人民的視線。這文化產品又可分成兩種，一種是大陸明星模仿台灣腔、一種是真的台劇，他們對台灣人的刻板印象是自那時候開始出現的。</p>
+<p>台灣腔在中國人眼中是什麼感覺？有幾個形容：「有禮貌、可愛、不標準、彆扭…」老師檢查這些高頻詞在語料庫出現的頻率是多少，還有哪些頻率詞彙相關出現：結果出來的是「女性化」。</p>
+<p>另有一團主題聚在一起，「禮貌、女人、作品、溫柔、小家碧玉」等等，不過老師猜測這跟文學作品有關，我具體沒有聽到太多。</p>
+<p>另外一塊很大的主題是「做作」，會連到李宇春、張靚穎，卻沒有連到台灣的明星。這可能不是台灣腔做作，而是中國人民會認為大陸明星如果刻意模仿台灣腔就是做作。</p>
+<p>接著老師分享他正在進行的研究。他來美國時，參加 NYC 的 Chinese/English meetup,5 meetups sessions(2hours),2019 April-June，</p>
+<p>遁入人群當中錄音，回家打成逐字稿。（那是一個雅婷逐字稿還沒出來的年代！）總之他做了一個類似的田野調查的東西，把他們話錄下來。</p>
+<p>把語料餵給機器，寫出演算法，請機器猜測：</p>
+<p>男性或女性在學習第二語言的時候，有什麼不一樣的習慣？用詞有什麼差別？</p>
+<p>初步解析出來的結果，最高詞頻都是第二常使用詞的兩倍以上。</p>
+<p>老師建議看一下統計結果，大概就會對自己研究的基本假設能不能成立有一些基本的概念。結果出來，女性學習者會比較常用中文學習，有 25% 的單詞都是講中文；而男性只有 10% 以下，可以說是學習動機不明（？）</p>
+<p>我忘記老師是不是有解釋他標記性別的方式是依照生理性別了，但是老師有特別說明：在社會語言學中，有大量的研究討論女生跟男生講話有什麼差別？但是目前在二語學習還沒有相關的研究成果。</p>
+<p>我的問題是在於：如果老師研究的不是依照生理性別，而是以心理性別（如果調查得到的話？）來研究，是不是會有差別？這個研究的假設是性別差異大於個別差異嗎？跨性別該如何解釋呢？感覺這是一個很有趣的研究，但是我想問的都是性別問題。</p>
+<p>另外一點老師有提到的是：女性學外語會比男性快很多，但沒有人真正知道為什麼。女性是怎麼運用學習策略的？這一點也是他想要知道的。</p>
+<p>簡單總結一下：很有收穫也很有趣的演講，可以討論的事情非常多。</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/note/">Note</a>
+        
+            <a href="/tags/%E8%AC%9B%E5%BA%A7/">講座</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/p/%E5%BE%9E%E6%96%B9%E8%A8%80%E5%9C%B0%E5%9C%96%E8%AB%87%E5%9C%B0%E7%90%86%E6%AD%B7%E5%8F%B2%E8%AA%9E%E8%A8%80%E5%AD%B8/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">從方言地圖談地理歷史語言學</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/%E8%A8%98%E7%9F%AE%E9%B5%9D%E5%8F%B0%E8%AA%9E%E6%9C%89%E6%96%87%E6%B3%95%E8%80%B6%E8%AC%9B%E5%BA%A7/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">記「矮鵝～台語有文法耶？！」講座</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2023 Hazel Wu
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.21.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

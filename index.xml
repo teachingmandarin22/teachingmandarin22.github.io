@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>華語森友會</title>
-    <link>https://teachingmandarin22.github.io/</link>
-    <description>Recent content on 華語森友會</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 05 Oct 2023 16:01:23 +0800</lastBuildDate>
-    
-        <atom:link href="https://teachingmandarin22.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>2023「串起傳承」教學實務分享交流會心得</title>
-      <link>https://teachingmandarin22.github.io/post/reflections-on-the-chinese-language-teaching-seminar/</link>
-      <pubDate>Thu, 05 Oct 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/reflections-on-the-chinese-language-teaching-seminar/</guid>
-      
-        <description>&lt;p&gt;&lt;img src=&#34;https://teachingmandarin22.github.io/images/mandarin.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+    <channel>
+        <title>華語森友會</title>
+        <link>https://teachingmandarin22.github.io/</link>
+        <description>Recent content on 華語森友會</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <copyright>Hazel Wu</copyright>
+        <lastBuildDate>Thu, 05 Oct 2023 16:01:23 +0800</lastBuildDate><atom:link href="https://teachingmandarin22.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2023「串起傳承」教學實務分享交流會心得</title>
+        <link>https://teachingmandarin22.github.io/p/2023%E4%B8%B2%E8%B5%B7%E5%82%B3%E6%89%BF%E6%95%99%E5%AD%B8%E5%AF%A6%E5%8B%99%E5%88%86%E4%BA%AB%E4%BA%A4%E6%B5%81%E6%9C%83%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Thu, 05 Oct 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/2023%E4%B8%B2%E8%B5%B7%E5%82%B3%E6%89%BF%E6%95%99%E5%AD%B8%E5%AF%A6%E5%8B%99%E5%88%86%E4%BA%AB%E4%BA%A4%E6%B5%81%E6%9C%83%E5%BF%83%E5%BE%97/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://teachingmandarin22.github.io/images/mandarin.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;串起傳承華語教學實務分享交流會&#34;&gt;串起傳承華語教學實務分享交流會&lt;/h2&gt;
-&lt;p&gt;在 8 月 19 日參加了&lt;a href=&#34;https://www.sblc.tw/&#34;&gt;說吧語言工作室&lt;/a&gt;「串起傳承」華語教學的交流會。由於我才剛踏入華語教學領域，所以能夠看到現場有這麼多投入華語教學的老師，對我來說是很興奮也很有收穫的一件事！&lt;/p&gt;
+&lt;p&gt;在 8 月 19 日參加了&lt;a class=&#34;link&#34; href=&#34;https://www.sblc.tw/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;說吧語言工作室&lt;/a&gt;「串起傳承」華語教學的交流會。由於我才剛踏入華語教學領域，所以能夠看到現場有這麼多投入華語教學的老師，對我來說是很興奮也很有收穫的一件事！&lt;/p&gt;
 &lt;p&gt;這次活動也讓我能夠有機會看到不同的老師們不同的演講風格。上午場次的老師主要分享了他們踏入華語教學的契機、過程以及所面對的挑戰。我對於老師們提到的「在 Instagram 上自我介紹並主動尋找學生」以及「帶領青少年遊學團的經驗」感到很有共鳴，我從他們的經驗中學到了許多實用的教學方法。&lt;/p&gt;
 &lt;p&gt;下午場次的老師教學經驗應該介於 10-30 年之間，都是經驗非常豐富的老師。他們分享了中高級華語教學策略、各種教學活動（如字卡、遊戲、賓果、搶答、對白）以及在商務華語教學中遇到的挑戰與突破。其中有兩位老師給我留下了深刻的印象。&lt;/p&gt;
 &lt;p&gt;一位曾在美國普林斯頓東亞系教授中文的老師分享了她對學生的觀察，指出學生們都很聰明：「這些學生不用教就會了。雙手交叉看著老師，上課時也不太講話。可是真要講話，講出來沒有一句話是錯的。」所以，要怎麼打破沈悶的課堂氣氛，並且讓學生願意相信老師，能夠心領神會就是老師最大的挑戰。&lt;/p&gt;
@@ -33,16 +36,13 @@
 &lt;p&gt;語法部分共有十篇文章，這部分是我看得非常久的文化，除了要理解語法結構之外，還需要思考這些情境如何應用在日常生活，最後再考慮如何將這些語法教授給學生。這邊，我主要看的是老師如何分析這個語法的過程，並且將其分門別類、討論。老師之前上課的時候時常強調：如果只是句型和圖片的替換，即使引導學生在課堂上說出結構正確的語言，他也不知道要在什麼樣的場合之下自然地產出，這也是我在備課時需要時常提醒自己的。&lt;/p&gt;
 &lt;p&gt;總而言之，備課小教室是一本內容非常豐富的手冊，就像是明確且細緻的教學指南，在我準備課程的時候，能夠充分增加自己的自信心。&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>2023 對外華語教學能力認證考試心得</title>
-      <link>https://teachingmandarin22.github.io/post/how-to-prepare-certificate-of-proficiency-for-teaching-chinese-as-a-second/</link>
-      <pubDate>Sun, 17 Sep 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/how-to-prepare-certificate-of-proficiency-for-teaching-chinese-as-a-second/</guid>
-      
+        </item>
+        <item>
+        <title>2023 對外華語教學能力認證考試心得</title>
+        <link>https://teachingmandarin22.github.io/p/2023-%E5%B0%8D%E5%A4%96%E8%8F%AF%E8%AA%9E%E6%95%99%E5%AD%B8%E8%83%BD%E5%8A%9B%E8%AA%8D%E8%AD%89%E8%80%83%E8%A9%A6%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Sun, 17 Sep 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/2023-%E5%B0%8D%E5%A4%96%E8%8F%AF%E8%AA%9E%E6%95%99%E5%AD%B8%E8%83%BD%E5%8A%9B%E8%AA%8D%E8%AD%89%E8%80%83%E8%A9%A6%E5%BF%83%E5%BE%97/</guid>
         <description>&lt;p&gt;上次參加這種大型考試是在考研究所的時候，我現在對考試已經很不熟悉了。當初瀏覽了一下考古題發現大都不會，查了一下考試通過率真心不高。&lt;/p&gt;
 &lt;p&gt;我知道自己並不是考試的料，思考了一下自己的優缺點，擬定了一個策略是：「每科平均、低空飛過」&lt;/p&gt;
 &lt;p&gt;我的策略是：&lt;/p&gt;
@@ -108,16 +108,13 @@
 &lt;p&gt;準備的過程確實對我有點幫助，我對語音跟語言教學理論更感興趣了。星期天考完口語表達時，朋友來找我，我們在醉月湖旁邊聊天，她說她當年考的時候完全沒有準備。我之所以相信，是因為她連阿摩測驗是什麼都不知道…，她拿出她的成績單，漢語語言學跟華人與社會文化都是九十幾分，這才真的是多年實力累積才能拿到的分數。&lt;/p&gt;
 &lt;p&gt;我們都知道考到這張證照並不保證教學能力，但它能夠讓我能夠多一些機會嘗試更多事情，對我來說是很有意義的，值得發文紀念。&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>丹群布農族語學習筆記（3）身份詢問</title>
-      <link>https://teachingmandarin22.github.io/post/bunun_language3/</link>
-      <pubDate>Wed, 06 Sep 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/bunun_language3/</guid>
-      
+        </item>
+        <item>
+        <title>丹群布農族語學習筆記（3）身份詢問</title>
+        <link>https://teachingmandarin22.github.io/p/%E4%B8%B9%E7%BE%A4%E5%B8%83%E8%BE%B2%E6%97%8F%E8%AA%9E%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%983%E8%BA%AB%E4%BB%BD%E8%A9%A2%E5%95%8F/</link>
+        <pubDate>Wed, 06 Sep 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E4%B8%B9%E7%BE%A4%E5%B8%83%E8%BE%B2%E6%97%8F%E8%AA%9E%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%983%E8%BA%AB%E4%BB%BD%E8%A9%A2%E5%95%8F/</guid>
         <description>&lt;p&gt;跟羅易學弟借來的上課筆記。疫情期間，學弟將課程錄音放上雲端，所以也可以直接聽課。 很謝謝學弟提供珍貴的資料、特地寄來給我。&lt;/p&gt;
 &lt;p&gt;以下是我聽課過後轉寫謄抄的筆記，如有錯誤請不吝指正，有可能是我聽錯、記錯。 著作權歸屬余榮德老師。&lt;/p&gt;
 &lt;h1 id=&#34;身份詢問-simaq-aas&#34;&gt;身份詢問 SIMAQ AAS&lt;/h1&gt;
@@ -162,16 +159,13 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>丹群布農族語學習筆記（2）問候語</title>
-      <link>https://teachingmandarin22.github.io/post/bunun_language2/</link>
-      <pubDate>Sun, 27 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/bunun_language2/</guid>
-      
+        </item>
+        <item>
+        <title>丹群布農族語學習筆記（2）問候語</title>
+        <link>https://teachingmandarin22.github.io/p/%E4%B8%B9%E7%BE%A4%E5%B8%83%E8%BE%B2%E6%97%8F%E8%AA%9E%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%982%E5%95%8F%E5%80%99%E8%AA%9E/</link>
+        <pubDate>Sun, 27 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E4%B8%B9%E7%BE%A4%E5%B8%83%E8%BE%B2%E6%97%8F%E8%AA%9E%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%982%E5%95%8F%E5%80%99%E8%AA%9E/</guid>
         <description>&lt;p&gt;跟羅易學弟借來的上課筆記。疫情期間，學弟將課程錄音放上雲端，所以也可以直接聽課。 很謝謝學弟提供珍貴的資料、特地寄來給我。&lt;/p&gt;
 &lt;p&gt;以下是我聽課過後轉寫謄抄的筆記，如有錯誤請不吝指正，有可能是我聽錯、記錯。 著作權歸屬余榮德老師。&lt;/p&gt;
 &lt;h1 id=&#34;問候語-mapasaduu-tu-isbabazbaz&#34;&gt;問候語 MAPASADUU TU ISBABAZBAZ&lt;/h1&gt;
@@ -265,16 +259,13 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>丹群布農族語學習筆記（1）語音</title>
-      <link>https://teachingmandarin22.github.io/post/bunun_language/</link>
-      <pubDate>Mon, 14 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/bunun_language/</guid>
-      
+        </item>
+        <item>
+        <title>丹群布農族語學習筆記（1）語音</title>
+        <link>https://teachingmandarin22.github.io/p/%E4%B8%B9%E7%BE%A4%E5%B8%83%E8%BE%B2%E6%97%8F%E8%AA%9E%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%981%E8%AA%9E%E9%9F%B3/</link>
+        <pubDate>Mon, 14 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E4%B8%B9%E7%BE%A4%E5%B8%83%E8%BE%B2%E6%97%8F%E8%AA%9E%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%981%E8%AA%9E%E9%9F%B3/</guid>
         <description>&lt;p&gt;跟羅易學弟借來的上課筆記。疫情期間，學弟將課程錄音放上雲端，所以也可以直接聽課。 很謝謝學弟特地寄來珍貴的資料給我。&lt;/p&gt;
 &lt;p&gt;以下是我聽課過後轉寫謄抄的筆記，如有錯誤請不吝指正，有可能是我聽錯、記錯。 著作權歸屬余榮德（Ti&amp;rsquo;iang Istasipal,Takbanuaz）老師。&lt;/p&gt;
 &lt;h1 id=&#34;目錄&#34;&gt;目錄&lt;/h1&gt;
@@ -454,16 +445,13 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>10-「只要...就」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/11-zhi-yao...jiu/</link>
-      <pubDate>Wed, 09 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/11-zhi-yao...jiu/</guid>
-      
+        </item>
+        <item>
+        <title>10-「只要...就」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/10-%E5%8F%AA%E8%A6%81...%E5%B0%B1%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Wed, 09 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/10-%E5%8F%AA%E8%A6%81...%E5%B0%B1%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;p&gt;&lt;code&gt;教材：《當代中文課程》B2L13&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;一整理句子&#34;&gt;一、整理句子&lt;/h1&gt;
 &lt;p&gt;「只要…就」，是一個條件複句。也就是說，只要滿足了某一個條件，就會產生某一個結果。&lt;/p&gt;
@@ -499,17 +487,15 @@
 &lt;p&gt;在職場上尋求意見，可能會出現「只要你認真工作，就會獲得賞識」等等之類的。&lt;/p&gt;
 &lt;p&gt;只不過，這個句型比較麻煩的是，「就」後面是結果，有些問答在「就」的前面也會出現別的主語，這邊比較難處理。&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>中級華語怎麼教？「來飲一壺華語茶」教學討論會心得</title>
-      <link>https://teachingmandarin22.github.io/post/how-to-teach-intermediate-level-chinese/</link>
-      <pubDate>Sun, 06 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/how-to-teach-intermediate-level-chinese/</guid>
-      
-        <description>&lt;p&gt;今年報名了&lt;a href=&#34;https://www.facebook.com/profile.php?id=100064042084924&#34;&gt;來飲一壺華語茶&lt;/a&gt;的教學討論會，上半年三次（3/29 、5/22、7/30）討論的教材是《當代中文課程》第四冊的教材內容。這三次教學討論會都讓我收穫很多，最近比較有空閒一點，於是把心得整理記錄下來：&lt;/p&gt;
+        </item>
+        <item>
+        <title>中級華語怎麼教？「來飲一壺華語茶」教學討論會心得</title>
+        <link>https://teachingmandarin22.github.io/p/%E4%B8%AD%E7%B4%9A%E8%8F%AF%E8%AA%9E%E6%80%8E%E9%BA%BC%E6%95%99%E4%BE%86%E9%A3%B2%E4%B8%80%E5%A3%BA%E8%8F%AF%E8%AA%9E%E8%8C%B6%E6%95%99%E5%AD%B8%E8%A8%8E%E8%AB%96%E6%9C%83%E5%BF%83%E5%BE%97/</link>
+        <pubDate>Sun, 06 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E4%B8%AD%E7%B4%9A%E8%8F%AF%E8%AA%9E%E6%80%8E%E9%BA%BC%E6%95%99%E4%BE%86%E9%A3%B2%E4%B8%80%E5%A3%BA%E8%8F%AF%E8%AA%9E%E8%8C%B6%E6%95%99%E5%AD%B8%E8%A8%8E%E8%AB%96%E6%9C%83%E5%BF%83%E5%BE%97/</guid>
+        <description>&lt;p&gt;今年報名了&lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/profile.php?id=100064042084924&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;來飲一壺華語茶&lt;/a&gt;的教學討論會，上半年三次（3/29 、5/22、7/30）討論的教材是《當代中文課程》第四冊的教材內容。這三次教學討論會都讓我收穫很多，最近比較有空閒一點，於是把心得整理記錄下來：&lt;/p&gt;
 &lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;李老師在教學討論會社團當中分享了過去六場主題影片，我聽了三場；剩下的影片，老師在雲端硬碟附上許多參考論文、簡報以及資料。如果帶著問題去找，會更有收穫。&lt;/p&gt;
 &lt;p&gt;不過我還是喜歡同步直播，所以報名了教學討論會，這樣有問題也能夠隨時請教老師。&lt;/p&gt;
@@ -631,7 +617,8 @@
 &lt;li&gt;這也許牽涉到以下幾個關鍵字，包含 ICLP 模式？？？、系統功能語言學、閱讀策略，語用。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
-&lt;p&gt;[1] 這一段落引自洪小雯，&lt;a href=&#34;https://tocfl.edu.tw/assets/files/Hsiao_Wen_Hong_02.pdf&#34;&gt;〈影響對外漢語閱讀測驗難度的因素〉&lt;/a&gt;，2013中文教師學會）&lt;/p&gt;
+&lt;p&gt;[1] 這一段落引自洪小雯，&lt;a class=&#34;link&#34; href=&#34;https://tocfl.edu.tw/assets/files/Hsiao_Wen_Hong_02.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;〈影響對外漢語閱讀測驗難度的因素〉&lt;/a&gt;，2013中文教師學會）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;log
 &lt;ul&gt;
@@ -640,16 +627,13 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>什麼是好的華語課堂？</title>
-      <link>https://teachingmandarin22.github.io/post/what-makes-a-good-mandarin-classroom/</link>
-      <pubDate>Sat, 05 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/what-makes-a-good-mandarin-classroom/</guid>
-      
+        </item>
+        <item>
+        <title>什麼是好的華語課堂？</title>
+        <link>https://teachingmandarin22.github.io/p/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%A5%BD%E7%9A%84%E8%8F%AF%E8%AA%9E%E8%AA%B2%E5%A0%82/</link>
+        <pubDate>Sat, 05 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%A5%BD%E7%9A%84%E8%8F%AF%E8%AA%9E%E8%AA%B2%E5%A0%82/</guid>
         <description>&lt;h1 id=&#34;前言&#34;&gt;&lt;strong&gt;前言&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;這個星期終於稍微比較悠閒，看一點雜書來轉換心情，於是一併蒐集了幾本語言教學、學習有關的書來看，試圖理清楚他們的說法是什麼。跟語言學大部頭學術書籍不一樣的是，他們的目標都是以實用為主，不講太多理論以及名詞解釋。這些書裡頭對於語言教學的觀點都不太相同，和我自己的教學經驗互相對照很有趣，促使我將這些思考給記下來。&lt;/p&gt;
 &lt;p&gt;這篇記錄我目前對好的華語教學的看法、想像和期許，「知道」以及「做到」仍有一段距離，但是總是要知道才能夠漸漸達到。我寫下的理解是針對成人華語口語表達教學，偏向&lt;strong&gt;一對一初級程度的教學&lt;/strong&gt;，在聽說方面；其他關於讀與寫，以及中級以及高級程度的華語教學，我的了解還不多。&lt;/p&gt;
@@ -704,7 +688,8 @@
 &lt;/li&gt;
 &lt;li&gt;內容語言教學法&lt;/li&gt;
 &lt;li&gt;任務教學法&amp;hellip;..&lt;/li&gt;
-&lt;li&gt;不過我也得說，關於 ICLP 模式我是完全不了解的，例如定式教學，任務型語塊，我有時候會在網路上找到老師使用&lt;a href=&#34;https://sheancyu.blogspot.com/search?q=iclp&#34;&gt;這套教學法&lt;/a&gt;的實作心得，我覺得非常有趣，有機會也會想要接觸看看。&lt;/li&gt;
+&lt;li&gt;不過我也得說，關於 ICLP 模式我是完全不了解的，例如定式教學，任務型語塊，我有時候會在網路上找到老師使用&lt;a class=&#34;link&#34; href=&#34;https://sheancyu.blogspot.com/search?q=iclp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;這套教學法&lt;/a&gt;的實作心得，我覺得非常有趣，有機會也會想要接觸看看。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;以上可見就是華語文教學當中我們可以見到的那些教學法，有一些教學法其實真的看起來很有趣，有機會的話我也想要親自操作看看。&lt;/p&gt;
 &lt;p&gt;不過說白話一點，我現在的教學是一對一，會用的教學法是：&lt;/p&gt;
@@ -827,18 +812,16 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>怎麼備語法課？</title>
-      <link>https://teachingmandarin22.github.io/post/how-to-prepate-grammar-class/</link>
-      <pubDate>Thu, 03 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/how-to-prepate-grammar-class/</guid>
-      
+        </item>
+        <item>
+        <title>怎麼備語法課？</title>
+        <link>https://teachingmandarin22.github.io/p/%E6%80%8E%E9%BA%BC%E5%82%99%E8%AA%9E%E6%B3%95%E8%AA%B2/</link>
+        <pubDate>Thu, 03 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E6%80%8E%E9%BA%BC%E5%82%99%E8%AA%9E%E6%B3%95%E8%AA%B2/</guid>
         <description>&lt;h3 id=&#34;跟我一起備課吧1班&#34;&gt;跟我一起備課吧！（1班）&lt;/h3&gt;
-&lt;p&gt;這篇文章是參加&lt;a href=&#34;https://www.sblc.tw/&#34;&gt;說吧語言工作室&lt;/a&gt;「跟我一起備課吧！」到目前為止的感想，簡略初稿。&lt;/p&gt;
+&lt;p&gt;這篇文章是參加&lt;a class=&#34;link&#34; href=&#34;https://www.sblc.tw/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;說吧語言工作室&lt;/a&gt;「跟我一起備課吧！」到目前為止的感想，簡略初稿。&lt;/p&gt;
 &lt;h2 id=&#34;準備&#34;&gt;準備&lt;/h2&gt;
 &lt;h3 id=&#34;先備知識&#34;&gt;先備知識&lt;/h3&gt;
 &lt;p&gt;我認為在上這門課之前，其實要對「語法」是什麼樣子要有一個基本的認識在，也就是了解漢語語言學這門學科：&lt;/p&gt;
@@ -921,16 +904,13 @@
 &lt;li&gt;2023.08.03&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>9-「一...就」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/10-yi...jiu/</link>
-      <pubDate>Tue, 01 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/10-yi...jiu/</guid>
-      
+        </item>
+        <item>
+        <title>9-「一...就」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/9-%E4%B8%80...%E5%B0%B1%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Tue, 01 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/9-%E4%B8%80...%E5%B0%B1%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;p&gt;&lt;code&gt;教材：《實用視聽華語》B2L12 &amp;amp; 《當代中文課程》B1L13&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;一整理句子&#34;&gt;一、整理句子&lt;/h1&gt;
 &lt;p&gt;（一）課文裡面的對話是：「明天我一下課，就去你們學校找你。」表示事情前後接著，距離的時間很短。&lt;/p&gt;
@@ -981,16 +961,13 @@
 &lt;li&gt;你認同一遇到困難就放棄的價值觀嗎？&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>8-「可能補語」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/9-keneng/</link>
-      <pubDate>Tue, 25 Jul 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/9-keneng/</guid>
-      
+        </item>
+        <item>
+        <title>8-「可能補語」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/8-%E5%8F%AF%E8%83%BD%E8%A3%9C%E8%AA%9E%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Tue, 25 Jul 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/8-%E5%8F%AF%E8%83%BD%E8%A3%9C%E8%AA%9E%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;p&gt;&lt;code&gt;教材：《實用視聽華語》B2L9 &amp;amp; 《當代中文課程》B2L8&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;一我會怎麼教&#34;&gt;一、我會怎麼教？&lt;/h1&gt;
 &lt;h3 id=&#34;一先釐清一下可能補語究竟是指什麼意思&#34;&gt;（一）先釐清一下「可能補語」究竟是指什麼意思？&lt;/h3&gt;
@@ -1078,16 +1055,13 @@
 &lt;li&gt;可能補語也會搭配很多「起來」「下去」「上來」「過去」等複合趨向動詞，要讓學生熟悉搭配用法。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>7-「比較句」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/8-compare_sentence/</link>
-      <pubDate>Sun, 16 Jul 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/8-compare_sentence/</guid>
-      
+        </item>
+        <item>
+        <title>7-「比較句」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/7-%E6%AF%94%E8%BC%83%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Sun, 16 Jul 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/7-%E6%AF%94%E8%BC%83%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;p&gt;&lt;code&gt;教材：《實用視聽華語》B2L5 &amp;amp; 《當代中文課程》B1L8&lt;/code&gt;&lt;/p&gt;
 &lt;h2 id=&#34;一看起來這次當代中文課程反而比實用視聽華語直觀&#34;&gt;（一）看起來，這次《當代中文課程》反而比《實用視聽華語》直觀。&lt;/h2&gt;
 &lt;p&gt;我會想從「我比你高」切入。&lt;/p&gt;
@@ -1154,21 +1128,19 @@
 &lt;p&gt;→這邊好難，有點想不到切入的情境。&lt;/p&gt;
 &lt;p&gt;總而言之，我覺得這個比較句本身的「情境」其實很好找，就是讓學生大量比較（並且練習形容詞），生活上會拿來比較的就是東西的價錢、食物好不好吃、什麼事物的好或壞等。但是這邊的結構有點難，具體我還需要時間想。&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>漢語語音學的問題大集合</title>
-      <link>https://teachingmandarin22.github.io/post/7-phonetics-copy/</link>
-      <pubDate>Fri, 14 Jul 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/7-phonetics-copy/</guid>
-      
+        </item>
+        <item>
+        <title>漢語語音學的問題大集合</title>
+        <link>https://teachingmandarin22.github.io/p/%E6%BC%A2%E8%AA%9E%E8%AA%9E%E9%9F%B3%E5%AD%B8%E7%9A%84%E5%95%8F%E9%A1%8C%E5%A4%A7%E9%9B%86%E5%90%88/</link>
+        <pubDate>Fri, 14 Jul 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E6%BC%A2%E8%AA%9E%E8%AA%9E%E9%9F%B3%E5%AD%B8%E7%9A%84%E5%95%8F%E9%A1%8C%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
         <description>&lt;p&gt;漢語語音學筆記，記載遇到的問題，以及一些可能的解方，慢慢增補。&lt;/p&gt;
 &lt;h1 id=&#34;一聲母&#34;&gt;一、聲母&lt;/h1&gt;
 &lt;h2 id=&#34;1消失的聲母&#34;&gt;（1）消失的聲母&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;濁唇齒擦音&lt;a href=&#34;https://zh.wikipedia.org/zh-tw/%E6%BF%81%E5%94%87%E9%BD%92%E6%93%A6%E9%9F%B3&#34;&gt;ㄪ&lt;/a&gt;/v/：與ㄈ清濁相配，應該已經清化了。&lt;/li&gt;
+&lt;li&gt;濁唇齒擦音&lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/zh-tw/%E6%BF%81%E5%94%87%E9%BD%92%E6%93%A6%E9%9F%B3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ㄪ&lt;/a&gt;/v/：與ㄈ清濁相配，應該已經清化了。&lt;/li&gt;
 &lt;li&gt;舌根鼻音ㄫ/ng/：現在已經不當聲母用了，但在漢語當中會拿來當中聲隨韻母ㄤㄥ的收音韻尾。但在華南各地的方言裡，仍然常見，例如台語的「硬」ngē、「五」ngóo。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;2聲母&#34;&gt;（2）聲母&lt;/h2&gt;
@@ -1182,7 +1154,8 @@
 &lt;li&gt;空韻ㄭ：
 &lt;ol&gt;
 &lt;li&gt;ㄭ/ʅ/前、高、展唇、舌尖後元音。前面跟上面一樣。舌尖向上升起，向後稍翹，到接近發ʐ音但不致摩擦的位置，唇形不圓。跟ㄓㄔㄕㄖ一起拼。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%C9%BF&#34;&gt;舌尖前不圓唇元音&lt;/a&gt;[ɿ]。跟ㄗㄘㄙ一起拼。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/wiki/%C9%BF&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;舌尖前不圓唇元音&lt;/a&gt;[ɿ]。跟ㄗㄘㄙ一起拼。&lt;/li&gt;
 &lt;li&gt;漢拼統拼為 i。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
@@ -1229,16 +1202,13 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>6-「著」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/6-zhe_grammar/</link>
-      <pubDate>Tue, 11 Jul 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/6-zhe_grammar/</guid>
-      
+        </item>
+        <item>
+        <title>6-「著」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/6-%E8%91%97%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Tue, 11 Jul 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/6-%E8%91%97%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;h1 id=&#34;一我的教學步驟&#34;&gt;一、我的教學步驟？&lt;/h1&gt;
 &lt;h2 id=&#34;一&#34;&gt;（一）&lt;/h2&gt;
 &lt;p&gt;初級語法「了」、「著」、「過」裡頭，「著」跟其他兩者比起來，看起來好像簡單一點，但仔細看下去好像又蠻複雜的。&lt;/p&gt;
@@ -1279,17 +1249,15 @@
 &lt;li&gt;備課備到現在，我覺得找合適的圖片也是很花時間的事！&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>二語習得理論：Krashen</title>
-      <link>https://teachingmandarin22.github.io/post/krashen/</link>
-      <pubDate>Sat, 01 Jul 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/krashen/</guid>
-      
-        <description>&lt;p&gt;二語習得的學說林林總總，總是不能繞開 Krashen，今天看了 Youtube 上這位 Steve Kaufmann 爺爺&lt;a href=&#34;https://www.youtube.com/watch?v=0AvgL1xPboI&#34;&gt;講得蠻有趣的&lt;/a&gt;。&lt;/p&gt;
+        </item>
+        <item>
+        <title>二語習得理論：Krashen</title>
+        <link>https://teachingmandarin22.github.io/p/%E4%BA%8C%E8%AA%9E%E7%BF%92%E5%BE%97%E7%90%86%E8%AB%96krashen/</link>
+        <pubDate>Sat, 01 Jul 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E4%BA%8C%E8%AA%9E%E7%BF%92%E5%BE%97%E7%90%86%E8%AB%96krashen/</guid>
+        <description>&lt;p&gt;二語習得的學說林林總總，總是不能繞開 Krashen，今天看了 Youtube 上這位 Steve Kaufmann 爺爺&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=0AvgL1xPboI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;講得蠻有趣的&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;當我們在學習語言時，中間會經過什麼過程呢？&lt;/p&gt;
 &lt;p&gt;Krashen 有五個假說來說明這個過程。&lt;/p&gt;
 &lt;h1 id=&#34;1the-acquistionlearning-hypothesis&#34;&gt;1.The Acquistion/Learning Hypothesis：&lt;/h1&gt;
@@ -1315,16 +1283,13 @@
 &lt;li&gt;2023-07-18 ver2&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>5-「被字句」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/5-_bei_grammar-copy/</link>
-      <pubDate>Thu, 29 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/5-_bei_grammar-copy/</guid>
-      
+        </item>
+        <item>
+        <title>5-「被字句」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/5-%E8%A2%AB%E5%AD%97%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Thu, 29 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/5-%E8%A2%AB%E5%AD%97%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;p&gt;這幾堂上課老師一直提醒的重點：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;要能比較、評價教材的語法點，並且自行決定教學的順序&lt;/li&gt;
@@ -1379,16 +1344,13 @@
 &lt;li&gt;「讓」、「叫」可以不教嗎？感覺學生會混淆，而且使用頻率略低。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>4-「把字句」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/4-_ba_grammar/</link>
-      <pubDate>Wed, 28 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/4-_ba_grammar/</guid>
-      
+        </item>
+        <item>
+        <title>4-「把字句」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/4-%E6%8A%8A%E5%AD%97%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Wed, 28 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/4-%E6%8A%8A%E5%AD%97%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;p&gt;教材：《實用視聽華語》B2L7 &amp;amp; 《當代中文課程》B1L15、B2L6、L7、L10&lt;/p&gt;
 &lt;p&gt;上課前，請先思考：&lt;/p&gt;
 &lt;p&gt;1.這個語法點會怎麼教？&lt;/p&gt;
@@ -1422,16 +1384,13 @@
 &lt;li&gt;把…到/給/在，我認為是要等學生熟悉了以上用法再教會比較好。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>3-「是...的」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/3-_shi...de_grammar/</link>
-      <pubDate>Wed, 21 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/3-_shi...de_grammar/</guid>
-      
+        </item>
+        <item>
+        <title>3-「是...的」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/3-%E6%98%AF...%E7%9A%84%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Wed, 21 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/3-%E6%98%AF...%E7%9A%84%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;p&gt;以前老師講過「是…的」句的思考作業，現在重看，還是覺得這是一個蠻特別的語法。&lt;/p&gt;
 &lt;p&gt;（一）《當代中文》當中說話一直重複「是&amp;hellip;的」句：&lt;/p&gt;
 &lt;p&gt;「你是為什麼去的？」「你是一個人去的嗎？」「你們是怎麼去的？」「你們是什麼時候回來的？」，問為什麼、問人數、問如何去、問時間，都可以用「是&amp;hellip;的」去來問。另外也有這三個句子：&lt;/p&gt;
@@ -1490,16 +1449,13 @@
 &lt;li&gt;第二種用法，我認為自己應該要跟學生解釋：「當對方說的話，你想要糾正時，你也可以使用這種用法」，但我不知道自己如何確認學生懂了沒有。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>2-「了」課前思考課後感想</title>
-      <link>https://teachingmandarin22.github.io/post/2-_le_grammar/</link>
-      <pubDate>Mon, 12 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/2-_le_grammar/</guid>
-      
+        </item>
+        <item>
+        <title>2-「了」課前思考課後感想</title>
+        <link>https://teachingmandarin22.github.io/p/2-%E4%BA%86%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83%E8%AA%B2%E5%BE%8C%E6%84%9F%E6%83%B3/</link>
+        <pubDate>Mon, 12 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/2-%E4%BA%86%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83%E8%AA%B2%E5%BE%8C%E6%84%9F%E6%83%B3/</guid>
         <description>&lt;ol&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -1554,16 +1510,13 @@
 &lt;li&gt;不要被教材牽著走，課本會出現一對結構正確，但沒有情境的句子。例如，「你去美國了嗎？」句子結構是對的，但是情境非常的突兀，到底什麼時候會用這種奇怪的句子？如果教材的例句不能夠幫助教學，就不要使用。要思考要怎麼同時教到語意、理解跟句型，老師應該要有這樣的彈性和能力去處理教材。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>1-「得」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/1-de/</link>
-      <pubDate>Tue, 06 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/1-de/</guid>
-      
+        </item>
+        <item>
+        <title>1-「得」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/1-%E5%BE%97%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Tue, 06 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/1-%E5%BE%97%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
         <description>&lt;h1 id=&#34;教案設計的內容主要參考自當代中文課程以新版實用視聽華語為輔&#34;&gt;&lt;strong&gt;教案設計的內容主要參考自《當代中文課程》，以《新版實用視聽華語》為輔。&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;首先我們可以看到「得」的語法出現在第一冊第五課「牛肉麵真好吃」，那個對話情境是一段聊天：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1661,8 +1614,294 @@
 &lt;li&gt;安排簡報動畫順序跟找合適的圖片其實蠻花時間的。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      
-    </item>
-    
-  </channel>
+        </item>
+        <item>
+        <title>Text as data 在語言研究上的應用</title>
+        <link>https://teachingmandarin22.github.io/p/text-as-data-%E5%9C%A8%E8%AA%9E%E8%A8%80%E7%A0%94%E7%A9%B6%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8/</link>
+        <pubDate>Sat, 20 May 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/text-as-data-%E5%9C%A8%E8%AA%9E%E8%A8%80%E7%A0%94%E7%A9%B6%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8/</guid>
+        <description>&lt;p&gt;老師本身是國企系畢業，後來跨社會語言學跟語言人類學。&lt;/p&gt;
+&lt;p&gt;這個演講基本上是老師介紹最新的研究成果，列點如下，其實可以討論的東西超級多，之後看有沒有機會再寫個比較完整的文章。&lt;/p&gt;
+&lt;p&gt;Text data 目前是很紅的研究，主要是用一些新方法例如：AI、數據科學、機器學習來回答社會科學，諸如質性研究無法解決的問題：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Co-occirrence of keywords in State of the Union Discourse&lt;/p&gt;
+&lt;p&gt;第一個是介紹了語言學家研究 30 年的國情咨文的講稿。分析每年的總統講稿主題的內容有什麼不同，關鍵字跟關鍵字有什麼差別。並且畫出資訊設計圖，標記出現頻率。不過研究結論我好像漏聽了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Connection between faulty placements and where they received their PHD&lt;/p&gt;
+&lt;p&gt;語言學家研究人類學博士畢業後的去向，想要用資料視覺化來畫出學術世界的裙帶關係。&lt;/p&gt;
+&lt;p&gt;當然，UC Berkeley 、Chicago、Havard、Michigan 所畫出來的四顆圈圈都是最大的，其他都是泡沫。&lt;/p&gt;
+&lt;p&gt;這代表，學術界依然存在高度的不平等，人類學領域當中如果不是出自名校畢業，要找到工作會比較困難（跟研究資源、指導老師的人脈有關係）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Detecting objectifying language in online professor review(waller &amp;amp; gorman 2020) rate &lt;a class=&#34;link&#34; href=&#34;http://professors.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;professors.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這個研究是在探討學生在做教學評鑑時，跟老師的容貌有沒有關係？這樣的研究步驟是：如果是評論當中提到老師外貌，是否會跟教學好壞做連結？&lt;/p&gt;
+&lt;p&gt;畫出圖之後，發現最早年蠻正相關，但是趨勢其實是下降的。這也許是因為這個網站裡頭本來的設定是「如果老師的課很熱門，會標上辣椒度」，然後學生似乎會下意識把辣椒數跟老師外貌做連結，在網站把辣椒取消之後，就沒什麼關聯了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;接著老師分享自己的研究&#34;&gt;接著，老師分享自己的研究！&lt;/h3&gt;
+&lt;p&gt;Mediatized taiwanese mandarin: the role televised media in the formation of speaker sterotypes&lt;/p&gt;
+&lt;p&gt;老師說他出國時，中國人都說他很有港台腔，例如很娘很嗲啊，因此他開始對「台灣華語」在中國人眼中的刻板印象非常有興趣。他撈了中國天涯論壇所有關於台灣腔的討論，用 text-mining 爬了 13,062 則評論，做了分析並資料視覺化，發表在 open linguistics。&lt;/p&gt;
+&lt;p&gt;我試著寫老師提到的結論，不一定非常完整。&lt;/p&gt;
+&lt;p&gt;老師認為，1970-1980 改革開放，有多來自港台的電視節目跟文化產品進入中國人民的視線。這文化產品又可分成兩種，一種是大陸明星模仿台灣腔、一種是真的台劇，他們對台灣人的刻板印象是自那時候開始出現的。&lt;/p&gt;
+&lt;p&gt;台灣腔在中國人眼中是什麼感覺？有幾個形容：「有禮貌、可愛、不標準、彆扭…」老師檢查這些高頻詞在語料庫出現的頻率是多少，還有哪些頻率詞彙相關出現：結果出來的是「女性化」。&lt;/p&gt;
+&lt;p&gt;另有一團主題聚在一起，「禮貌、女人、作品、溫柔、小家碧玉」等等，不過老師猜測這跟文學作品有關，我具體沒有聽到太多。&lt;/p&gt;
+&lt;p&gt;另外一塊很大的主題是「做作」，會連到李宇春、張靚穎，卻沒有連到台灣的明星。這可能不是台灣腔做作，而是中國人民會認為大陸明星如果刻意模仿台灣腔就是做作。&lt;/p&gt;
+&lt;p&gt;接著老師分享他正在進行的研究。他來美國時，參加 NYC 的 Chinese/English meetup,5 meetups sessions(2hours),2019 April-June，&lt;/p&gt;
+&lt;p&gt;遁入人群當中錄音，回家打成逐字稿。（那是一個雅婷逐字稿還沒出來的年代！）總之他做了一個類似的田野調查的東西，把他們話錄下來。&lt;/p&gt;
+&lt;p&gt;把語料餵給機器，寫出演算法，請機器猜測：&lt;/p&gt;
+&lt;p&gt;男性或女性在學習第二語言的時候，有什麼不一樣的習慣？用詞有什麼差別？&lt;/p&gt;
+&lt;p&gt;初步解析出來的結果，最高詞頻都是第二常使用詞的兩倍以上。&lt;/p&gt;
+&lt;p&gt;老師建議看一下統計結果，大概就會對自己研究的基本假設能不能成立有一些基本的概念。結果出來，女性學習者會比較常用中文學習，有 25% 的單詞都是講中文；而男性只有 10% 以下，可以說是學習動機不明（？）&lt;/p&gt;
+&lt;p&gt;我忘記老師是不是有解釋他標記性別的方式是依照生理性別了，但是老師有特別說明：在社會語言學中，有大量的研究討論女生跟男生講話有什麼差別？但是目前在二語學習還沒有相關的研究成果。&lt;/p&gt;
+&lt;p&gt;我的問題是在於：如果老師研究的不是依照生理性別，而是以心理性別（如果調查得到的話？）來研究，是不是會有差別？這個研究的假設是性別差異大於個別差異嗎？跨性別該如何解釋呢？感覺這是一個很有趣的研究，但是我想問的都是性別問題。&lt;/p&gt;
+&lt;p&gt;另外一點老師有提到的是：女性學外語會比男性快很多，但沒有人真正知道為什麼。女性是怎麼運用學習策略的？這一點也是他想要知道的。&lt;/p&gt;
+&lt;p&gt;簡單總結一下：很有收穫也很有趣的演講，可以討論的事情非常多。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>從方言地圖談地理歷史語言學</title>
+        <link>https://teachingmandarin22.github.io/p/%E5%BE%9E%E6%96%B9%E8%A8%80%E5%9C%B0%E5%9C%96%E8%AB%87%E5%9C%B0%E7%90%86%E6%AD%B7%E5%8F%B2%E8%AA%9E%E8%A8%80%E5%AD%B8/</link>
+        <pubDate>Thu, 11 May 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E5%BE%9E%E6%96%B9%E8%A8%80%E5%9C%B0%E5%9C%96%E8%AB%87%E5%9C%B0%E7%90%86%E6%AD%B7%E5%8F%B2%E8%AA%9E%E8%A8%80%E5%AD%B8/</guid>
+        <description>&lt;h1 id=&#34;從方言地圖談歷史語言學&#34;&gt;從方言地圖談歷史語言學&lt;/h1&gt;
+&lt;p&gt;感謝&lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/irina__chao/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@irina__chao&lt;/a&gt;推坑，今天聽的是洪惟仁老師的演講。新聞報導老師的專長是「聽到對方講閩南語，就可以知道他是哪裡人」，以地理語言學的角度來看待閩南語的變化。&lt;/p&gt;
+&lt;p&gt;查了一下《閩南地區方言地圖集》熱賣到絕版，不過最近要重出了。&lt;/p&gt;
+&lt;p&gt;我基本上聽不太懂，但湊湊熱鬧，增點見聞。&lt;/p&gt;
+&lt;h3 id=&#34;-莆仙方言的保守性&#34;&gt;✷ 莆仙方言的保守性&lt;/h3&gt;
+&lt;p&gt;方言地圖顯示北部閩語特色〈居居〉皆念成撮口音 -y&lt;/p&gt;
+&lt;p&gt;南部閩語只有莆仙方言唸成 -y ，其他南閩語方言發生了多樣的變異。&lt;/p&gt;
+&lt;p&gt;莆仙方言大部分方言都有鼻化元音，這是南部閩語的共同創新。&lt;/p&gt;
+&lt;p&gt;從進化分類學看，閩語應別為「內陸閩語」、「海岸閩語」；&lt;/p&gt;
+&lt;p&gt;海岸閩語又分化為東閩語，南閩語兩大類，從語言圈的觀念，內陸閩語和東閩語可合併為北部閩語。&lt;/p&gt;
+&lt;h3 id=&#34;-閩南語鼻化元音的崩潰&#34;&gt;✷ 閩南語鼻化元音的崩潰&lt;/h3&gt;
+&lt;p&gt;鼻化音韻母是南閩語的特色，有沒有鼻化韻是區別南、北閩語的主要區別性特徵。&lt;/p&gt;
+&lt;p&gt;閩北語沒有鼻化元音。&lt;/p&gt;
+&lt;p&gt;鼻化音發音時除了口腔開放，鼻腔也要同時開放，比較難發音。&lt;/p&gt;
+&lt;p&gt;屬於有標音。有標音變成無標音是語言變化的趨勢，稱為鼻化元音崩潰。&lt;/p&gt;
+&lt;p&gt;1.去鼻化：石獅方言、海南方言&lt;/p&gt;
+&lt;p&gt;2.輔音化：&lt;em&gt;-uinn&amp;gt;-ng（飯、媒）；&lt;/em&gt;-onn&amp;gt;-ng（糖、兩）&lt;/p&gt;
+&lt;p&gt;3.去中元音化：&lt;/p&gt;
+&lt;p&gt;鼻化元音的位移&lt;/p&gt;
+&lt;p&gt;✷ enn&amp;gt;inn(泉）；ionn&amp;gt;iunn&amp;gt;ing(泉）；enn&amp;gt;ann(莆田、大田）；&lt;/p&gt;
+&lt;p&gt;uenn&amp;gt;uann(漳）&lt;/p&gt;
+&lt;p&gt;✷ &lt;em&gt;-erinn&amp;gt;&lt;/em&gt;-irinn&amp;gt;-uinn(泉）；&amp;gt;-ainn(同安）&lt;/p&gt;
+&lt;p&gt;✷ 台灣語言學史的一個探討&lt;/p&gt;
+&lt;p&gt;疑問：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;宜蘭話是純漳腔方言嗎？如果是，來自哪一種漳腔次方言？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如地圖所示 *-uinn源自漳腔區無異&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;如果是混合方言，宜蘭方言的異質特色iunn變體是哪裡來的？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;根據〈箱薑白〉韻類 iunn 變體是泉音。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;漳州腔的大本營：宜蘭方言調查紀行（洪惟仁，台灣方言之旅，1992）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;主張宜蘭方言具有 95% 的漳腔，其中5% 的非漳腔指的是念泉音-iunn，推斷源自台北泉腔方言的擴散&lt;/p&gt;
+&lt;p&gt;以上這些鼻化元音不能逆向改變&lt;/p&gt;
+&lt;h3 id=&#34;-台灣漳海腔方言史的重建&#34;&gt;✷ 台灣漳海腔方言史的重建&lt;/h3&gt;
+&lt;p&gt;修正觀點：&lt;/p&gt;
+&lt;p&gt;三十年前的老派宜蘭腔還沒有受到台北泉腔或普通腔很大的污染，仍然保存著相當純粹的原鄉漳味。漳海腔〈箱薑白〉唸成 -iunn。&lt;/p&gt;
+&lt;p&gt;南閩州&lt;/p&gt;
+&lt;p&gt;高雄是混合腔，南閩州以漳泉閩南語混合腔佔優勢。&lt;/p&gt;
+&lt;p&gt;Koineization&lt;/p&gt;
+&lt;h3 id=&#34;台灣的閩南語化分成三個時期&#34;&gt;台灣的閩南語化分成三個時期&lt;/h3&gt;
+&lt;p&gt;初期的原鄉效應與聚落興土化的行程，也就是各個大大小小的聚落方言。&lt;/p&gt;
+&lt;p&gt;中期的區域洪水效應與通行語的形成。個個台灣大方言區內的方言片都是區域通行語，&lt;/p&gt;
+&lt;p&gt;其中南閩州是最大型的區域通行語化。漳泉方言的區別在北周已經極為模糊。&lt;/p&gt;
+&lt;p&gt;近期的大洪水效應與普通腔的產生，即戰後逐漸成形的台灣普通腔。&lt;/p&gt;
+&lt;p&gt;其他剩餘摘抄的句子&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;中文系讀聲韻學時有時候會流傳一個說法，古代人講話會像閩南語；但是老師不置可否。老師認為民族主義的感情不要亂放，要抱持做科學的精神，不然沒辦法做研究了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;你說音變有規律嗎？音變有規律，但是語言學家常常把規則過度概略化，講得斬釘截鐵，這可能也是一種迷思。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;念語言學最好懂點生物學。中文系大部分都是閉門造車，光幫滂並明都搞不清楚了，真正搞得清楚就是高本漢。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;lt;&amp;ndash;躺著也中槍&amp;hellip;但我覺得他講的某部分我可以認同，這是做田野調查的人的真心話。&lt;/p&gt;
+&lt;p&gt;3.要做語言學就是要專心，恩師是鍾露昇，研究地理語言學閩南語在台灣的分布，因此我一輩子只做一件事。所謂樣樣通樣樣疏鬆。&lt;/p&gt;
+&lt;p&gt;你不用是很乖的學生，但是要很會觀察跟思考，要有宏觀的視野跟精密的觀察，去思考一個語言的發展規律。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>記「矮鵝～台語有文法耶？！」講座</title>
+        <link>https://teachingmandarin22.github.io/p/%E8%A8%98%E7%9F%AE%E9%B5%9D%E5%8F%B0%E8%AA%9E%E6%9C%89%E6%96%87%E6%B3%95%E8%80%B6%E8%AC%9B%E5%BA%A7/</link>
+        <pubDate>Tue, 18 Apr 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E8%A8%98%E7%9F%AE%E9%B5%9D%E5%8F%B0%E8%AA%9E%E6%9C%89%E6%96%87%E6%B3%95%E8%80%B6%E8%AC%9B%E5%BA%A7/</guid>
+        <description>&lt;p&gt;今天筆記的是之前看到&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/lilicoco_tong/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@lilicoco_tong&lt;/a&gt;(阿東的哩哩叩叩 | 台語小教室)所推薦的講座，
+是《語言學家解破台語》的作者劉承賢老師關於台語文法的講座～&lt;/p&gt;
+&lt;h3 id=&#34;老師先從詞開始介紹&#34;&gt;老師先從「詞」開始介紹，&lt;/h3&gt;
+&lt;p&gt;像是東亞漢字文化圈，例如台語、中文、韓語、越南語都有大量的共通詞。&lt;/p&gt;
+&lt;p&gt;然而這裡有一個現象就是「不對應性」：同樣的漢字在不同語言，意思跟用法都不同，舉個實例：&lt;/p&gt;
+&lt;p&gt;✷ 日文的漢字「人參」其實是華語的「胡蘿蔔」之意。&lt;/p&gt;
+&lt;p&gt;✷ 韓文的漢字「安寧」其實是華語的「你好」。&lt;/p&gt;
+&lt;p&gt;✷ 越南的漢字「博士」是華語的「醫生」。&lt;/p&gt;
+&lt;p&gt;✷ 台語的漢字「垃圾」是華語的「不乾淨」。&lt;/p&gt;
+&lt;p&gt;✷ 廣東話的「衰」是華語的「歹」。&lt;/p&gt;
+&lt;p&gt;接著，老師問大家文法是什麼？&lt;/p&gt;
+&lt;p&gt;感覺大家都很有概念，有以下回答：&lt;/p&gt;
+&lt;p&gt;✷ 語言的使用規則&lt;/p&gt;
+&lt;p&gt;✷ 文法是說話的語序結構&lt;/p&gt;
+&lt;p&gt;✷ 文法也會跟語用有關係&lt;/p&gt;
+&lt;p&gt;✷ 語感&lt;/p&gt;
+&lt;p&gt;老師研究句法，所以他也回饋語感是很重要的，這是句子構成的模式，也是語言學家依賴母語人士裡頭會去尋找的規則。&lt;/p&gt;
+&lt;p&gt;一般來說，我們熟悉的文法就像是，&lt;/p&gt;
+&lt;p&gt;動詞有時貌性數變化、名詞單複數性別變化，&lt;/p&gt;
+&lt;p&gt;但是華語跟台語沒有這些規則，並不代表沒有文法，&lt;/p&gt;
+&lt;p&gt;語言裡面的語序差別就是最重要的，如果沒有文法的話，應該亂亂排都可以。&lt;/p&gt;
+&lt;h3 id=&#34;簡單來說文法最明顯的特徵就是句子怎麼排列組合&#34;&gt;簡單來說，文法最明顯的特徵就是「句子怎麼排列組合」。&lt;/h3&gt;
+&lt;p&gt;接著，即使很多語言沒有詞尾變化，又有相同的基本語序，也不代表沒有文法差異。&lt;/p&gt;
+&lt;p&gt;雖然法語跟英語的基本語序相同，都是ＳＶＯ，&lt;/p&gt;
+&lt;p&gt;然而以「現在進行式」來舉例：&lt;/p&gt;
+&lt;p&gt;✷ John is talking with Mary.&lt;/p&gt;
+&lt;p&gt;✷ Jean parie avec Marie(詞對譯+詞法修正)&lt;/p&gt;
+&lt;p&gt;法語跟英語的副詞位置也不一樣。&lt;/p&gt;
+&lt;p&gt;老師又問大家台語跟華語有什麼不同？大家又觀察到很多有趣的現象，像是「有」字句、濁音入聲、語綴詞不一樣、台語數字後面一定要有量詞、沒有捲舌跟唇齒音等等等，接著就進入正題。&lt;/p&gt;
+&lt;h3 id=&#34;1-台語的賓語強制提前&#34;&gt;1. 台語的賓語強制提前：&lt;/h3&gt;
+&lt;p&gt;（有些文法特徵會受到華語影響會消退、但考台語檢定還是要注意啊。）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1)如果使用動詞的時候，是動作造成的結果，就需要把賓語提前：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;a. 我 飯 食 飽 -ah&lt;/p&gt;
+&lt;p&gt;b. 我 工課 做完 -ah&lt;/p&gt;
+&lt;p&gt;c. 我 火 點著 -ah&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(2) 如果動作＋了完煞好（看起來就是述補結構要提前）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;a. 我 冊 讀了 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;b. 我 宿題 寫完 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;c. 你 意見 講煞 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;d. 阿卿 衫 洗好 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;例外：邰死人、摃破歐仔的「死、破、贏、斷」這四個動詞&lt;/p&gt;
+&lt;p&gt;這些動詞全部都是非賓格動詞，沒有一個明顯的發動者，描述的是一種事態&lt;/p&gt;
+&lt;p&gt;即使有人發動，也無法掌控最終結果&lt;/p&gt;
+&lt;p&gt;（這在華語上的分類應該是一種無法持續的變化動詞？）&lt;/p&gt;
+&lt;h3 id=&#34;2構詞彈性&#34;&gt;2.構詞彈性：&lt;/h3&gt;
+&lt;p&gt;不成詞的，要中間插入「kah」、「hoo」、「beh」等虛詞會比較道地，例如：&lt;/p&gt;
+&lt;p&gt;a. 春嬌 hoo 志明罵 kah 哭 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;b. 嘛食 kah sian&amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;c. 飼 hoo 飽&lt;/p&gt;
+&lt;p&gt;d. 唱 kah 哭&amp;ndash;ah&lt;/p&gt;
+&lt;h3 id=&#34;3動貌詞ｖ著的用法在華語是持續貌然而在台語是動作達成&#34;&gt;3.動貌詞：「Ｖ」著的用法在華語是「持續貌」，然而在台語是「動作達成」&lt;/h3&gt;
+&lt;p&gt;✷ 水順看著銀環&amp;ndash;ah &amp;ndash; 意思是看到了&lt;/p&gt;
+&lt;h3 id=&#34;4kā與把的用法台語的kā功能遠比華語的把字句豐富&#34;&gt;4.「kā」與「把」的用法：台語的「kā」功能遠比華語的把字句豐富&lt;/h3&gt;
+&lt;p&gt;能帶上「受惠者（受害者）」、「受事者」、「來源」、「目標」&lt;/p&gt;
+&lt;p&gt;完全不需要用到「幫」。&lt;/p&gt;
+&lt;p&gt;a. 添發 kā 阿卿拍&lt;/p&gt;
+&lt;p&gt;b. 添發 kā 偷走學&lt;/p&gt;
+&lt;p&gt;c. 添發 kā 阿卿買一領衫&lt;/p&gt;
+&lt;h3 id=&#34;5問句的類型與構成台語中性是非問句不用嗎作疑問助詞&#34;&gt;5.問句的類型與構成，台語中性是非問句不用「嗎」作疑問助詞。&lt;/h3&gt;
+&lt;p&gt;a. 你要去嗎？（華語）&lt;/p&gt;
+&lt;p&gt;b. 你「敢」欲去？（台語）&lt;/p&gt;
+&lt;p&gt;c.你欲去&amp;ndash;「無」（台語）&lt;/p&gt;
+&lt;p&gt;台語應該只有「是毋是」這個問句構成的用法。&lt;/p&gt;
+&lt;h3 id=&#34;6動詞形容詞重疊&#34;&gt;6.動詞、形容詞重疊。&lt;/h3&gt;
+&lt;p&gt;a. 紅紅跟紅紅紅的濃淡差別&lt;/p&gt;
+&lt;p&gt;b. 我吃吃（華語）=我食看覓（台語）&lt;/p&gt;
+&lt;p&gt;c.「講講 he!」（台語）（意思是你不該說那個的意思）=「說那個做什麼」（華語）&lt;/p&gt;
+&lt;h3 id=&#34;7-特殊的文法&#34;&gt;7. 特殊的文法&lt;/h3&gt;
+&lt;p&gt;a. 謂語重複（表示快要發生、有一種傾向）&lt;/p&gt;
+&lt;p&gt;✷ 外口 欲落雨 欲落雨(台語)=外面要下雨的感覺&lt;/p&gt;
+&lt;p&gt;b. 台語看似不合理句子：&lt;/p&gt;
+&lt;p&gt;✷ 阿忠無考駕照，伊攏駛身分證。（在鄉下紅綠燈只是參考的時候，駕照也只是參考啦。）&lt;/p&gt;
+&lt;p&gt;我覺得內容不太容易，感覺聽眾都很內行😂。收穫滿滿！&lt;/p&gt;
+&lt;p&gt;分享一下官方的&lt;a class=&#34;link&#34; href=&#34;https://medium.com/@rihssmost/%E5%AD%B8%E4%BA%BA%E9%96%8B%E8%AC%9B-%E7%9F%AE%E9%B5%9D-%E5%8F%B0%E8%AA%9E%E6%9C%89%E6%96%87%E6%B3%95%E8%80%B6-4f7ae751012a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;會後紀錄&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://teachingmandarin22.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://teachingmandarin22.github.io/about/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/about/</guid>
+        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://teachingmandarin22.github.io/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://teachingmandarin22.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>

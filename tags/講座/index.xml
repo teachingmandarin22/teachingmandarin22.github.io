@@ -1,38 +1,220 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>講座 on 華語森友會</title>
-    <link>https://teachingmandarin22.github.io/tags/%E8%AC%9B%E5%BA%A7/</link>
-    <description>Recent content in 講座 on 華語森友會</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 20 May 2023 16:01:23 +0800</lastBuildDate><atom:link href="https://teachingmandarin22.github.io/tags/%E8%AC%9B%E5%BA%A7/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Text as data 在語言研究上的應用</title>
-      <link>https://teachingmandarin22.github.io/post/text-as-data/</link>
-      <pubDate>Sat, 20 May 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/text-as-data/</guid>
-      <description>老師本身是國企系畢業，後來跨社會語言學跟語言人類學。 這個演講基本上是老師介紹最新的研究成果，列點如下，其實可以討論的東西超級多，之後看有沒有</description>
-    </item>
-    
-    <item>
-      <title>從方言地圖談地理歷史語言學</title>
-      <link>https://teachingmandarin22.github.io/post/20230511taiwandialect/</link>
-      <pubDate>Thu, 11 May 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/20230511taiwandialect/</guid>
-      <description>從方言地圖談歷史語言學 感謝@irina__chao推坑，今天聽的是洪惟仁老師的演講。新聞報導老師的專長是「聽到對方講閩南語，就可以知道他是哪</description>
-    </item>
-    
-    <item>
-      <title>記「矮鵝～台語有文法耶？！」講座</title>
-      <link>https://teachingmandarin22.github.io/post/20230418taiwanesegrammar/</link>
-      <pubDate>Tue, 18 Apr 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/20230418taiwanesegrammar/</guid>
-      <description>今天筆記的是之前看到 @lilicoco_tong(阿東的哩哩叩叩 | 台語小教室)所推薦的講座， 是《語言學家解破台語》的作者劉承賢老師關於台語文</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>講座 on 華語森友會</title>
+        <link>https://teachingmandarin22.github.io/tags/%E8%AC%9B%E5%BA%A7/</link>
+        <description>Recent content in 講座 on 華語森友會</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <copyright>Hazel Wu</copyright>
+        <lastBuildDate>Sat, 20 May 2023 16:01:23 +0800</lastBuildDate><atom:link href="https://teachingmandarin22.github.io/tags/%E8%AC%9B%E5%BA%A7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Text as data 在語言研究上的應用</title>
+        <link>https://teachingmandarin22.github.io/p/text-as-data-%E5%9C%A8%E8%AA%9E%E8%A8%80%E7%A0%94%E7%A9%B6%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8/</link>
+        <pubDate>Sat, 20 May 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/text-as-data-%E5%9C%A8%E8%AA%9E%E8%A8%80%E7%A0%94%E7%A9%B6%E4%B8%8A%E7%9A%84%E6%87%89%E7%94%A8/</guid>
+        <description>&lt;p&gt;老師本身是國企系畢業，後來跨社會語言學跟語言人類學。&lt;/p&gt;
+&lt;p&gt;這個演講基本上是老師介紹最新的研究成果，列點如下，其實可以討論的東西超級多，之後看有沒有機會再寫個比較完整的文章。&lt;/p&gt;
+&lt;p&gt;Text data 目前是很紅的研究，主要是用一些新方法例如：AI、數據科學、機器學習來回答社會科學，諸如質性研究無法解決的問題：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Co-occirrence of keywords in State of the Union Discourse&lt;/p&gt;
+&lt;p&gt;第一個是介紹了語言學家研究 30 年的國情咨文的講稿。分析每年的總統講稿主題的內容有什麼不同，關鍵字跟關鍵字有什麼差別。並且畫出資訊設計圖，標記出現頻率。不過研究結論我好像漏聽了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Connection between faulty placements and where they received their PHD&lt;/p&gt;
+&lt;p&gt;語言學家研究人類學博士畢業後的去向，想要用資料視覺化來畫出學術世界的裙帶關係。&lt;/p&gt;
+&lt;p&gt;當然，UC Berkeley 、Chicago、Havard、Michigan 所畫出來的四顆圈圈都是最大的，其他都是泡沫。&lt;/p&gt;
+&lt;p&gt;這代表，學術界依然存在高度的不平等，人類學領域當中如果不是出自名校畢業，要找到工作會比較困難（跟研究資源、指導老師的人脈有關係）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Detecting objectifying language in online professor review(waller &amp;amp; gorman 2020) rate &lt;a class=&#34;link&#34; href=&#34;http://professors.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;professors.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這個研究是在探討學生在做教學評鑑時，跟老師的容貌有沒有關係？這樣的研究步驟是：如果是評論當中提到老師外貌，是否會跟教學好壞做連結？&lt;/p&gt;
+&lt;p&gt;畫出圖之後，發現最早年蠻正相關，但是趨勢其實是下降的。這也許是因為這個網站裡頭本來的設定是「如果老師的課很熱門，會標上辣椒度」，然後學生似乎會下意識把辣椒數跟老師外貌做連結，在網站把辣椒取消之後，就沒什麼關聯了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;接著老師分享自己的研究&#34;&gt;接著，老師分享自己的研究！&lt;/h3&gt;
+&lt;p&gt;Mediatized taiwanese mandarin: the role televised media in the formation of speaker sterotypes&lt;/p&gt;
+&lt;p&gt;老師說他出國時，中國人都說他很有港台腔，例如很娘很嗲啊，因此他開始對「台灣華語」在中國人眼中的刻板印象非常有興趣。他撈了中國天涯論壇所有關於台灣腔的討論，用 text-mining 爬了 13,062 則評論，做了分析並資料視覺化，發表在 open linguistics。&lt;/p&gt;
+&lt;p&gt;我試著寫老師提到的結論，不一定非常完整。&lt;/p&gt;
+&lt;p&gt;老師認為，1970-1980 改革開放，有多來自港台的電視節目跟文化產品進入中國人民的視線。這文化產品又可分成兩種，一種是大陸明星模仿台灣腔、一種是真的台劇，他們對台灣人的刻板印象是自那時候開始出現的。&lt;/p&gt;
+&lt;p&gt;台灣腔在中國人眼中是什麼感覺？有幾個形容：「有禮貌、可愛、不標準、彆扭…」老師檢查這些高頻詞在語料庫出現的頻率是多少，還有哪些頻率詞彙相關出現：結果出來的是「女性化」。&lt;/p&gt;
+&lt;p&gt;另有一團主題聚在一起，「禮貌、女人、作品、溫柔、小家碧玉」等等，不過老師猜測這跟文學作品有關，我具體沒有聽到太多。&lt;/p&gt;
+&lt;p&gt;另外一塊很大的主題是「做作」，會連到李宇春、張靚穎，卻沒有連到台灣的明星。這可能不是台灣腔做作，而是中國人民會認為大陸明星如果刻意模仿台灣腔就是做作。&lt;/p&gt;
+&lt;p&gt;接著老師分享他正在進行的研究。他來美國時，參加 NYC 的 Chinese/English meetup,5 meetups sessions(2hours),2019 April-June，&lt;/p&gt;
+&lt;p&gt;遁入人群當中錄音，回家打成逐字稿。（那是一個雅婷逐字稿還沒出來的年代！）總之他做了一個類似的田野調查的東西，把他們話錄下來。&lt;/p&gt;
+&lt;p&gt;把語料餵給機器，寫出演算法，請機器猜測：&lt;/p&gt;
+&lt;p&gt;男性或女性在學習第二語言的時候，有什麼不一樣的習慣？用詞有什麼差別？&lt;/p&gt;
+&lt;p&gt;初步解析出來的結果，最高詞頻都是第二常使用詞的兩倍以上。&lt;/p&gt;
+&lt;p&gt;老師建議看一下統計結果，大概就會對自己研究的基本假設能不能成立有一些基本的概念。結果出來，女性學習者會比較常用中文學習，有 25% 的單詞都是講中文；而男性只有 10% 以下，可以說是學習動機不明（？）&lt;/p&gt;
+&lt;p&gt;我忘記老師是不是有解釋他標記性別的方式是依照生理性別了，但是老師有特別說明：在社會語言學中，有大量的研究討論女生跟男生講話有什麼差別？但是目前在二語學習還沒有相關的研究成果。&lt;/p&gt;
+&lt;p&gt;我的問題是在於：如果老師研究的不是依照生理性別，而是以心理性別（如果調查得到的話？）來研究，是不是會有差別？這個研究的假設是性別差異大於個別差異嗎？跨性別該如何解釋呢？感覺這是一個很有趣的研究，但是我想問的都是性別問題。&lt;/p&gt;
+&lt;p&gt;另外一點老師有提到的是：女性學外語會比男性快很多，但沒有人真正知道為什麼。女性是怎麼運用學習策略的？這一點也是他想要知道的。&lt;/p&gt;
+&lt;p&gt;簡單總結一下：很有收穫也很有趣的演講，可以討論的事情非常多。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>從方言地圖談地理歷史語言學</title>
+        <link>https://teachingmandarin22.github.io/p/%E5%BE%9E%E6%96%B9%E8%A8%80%E5%9C%B0%E5%9C%96%E8%AB%87%E5%9C%B0%E7%90%86%E6%AD%B7%E5%8F%B2%E8%AA%9E%E8%A8%80%E5%AD%B8/</link>
+        <pubDate>Thu, 11 May 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E5%BE%9E%E6%96%B9%E8%A8%80%E5%9C%B0%E5%9C%96%E8%AB%87%E5%9C%B0%E7%90%86%E6%AD%B7%E5%8F%B2%E8%AA%9E%E8%A8%80%E5%AD%B8/</guid>
+        <description>&lt;h1 id=&#34;從方言地圖談歷史語言學&#34;&gt;從方言地圖談歷史語言學&lt;/h1&gt;
+&lt;p&gt;感謝&lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/irina__chao/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@irina__chao&lt;/a&gt;推坑，今天聽的是洪惟仁老師的演講。新聞報導老師的專長是「聽到對方講閩南語，就可以知道他是哪裡人」，以地理語言學的角度來看待閩南語的變化。&lt;/p&gt;
+&lt;p&gt;查了一下《閩南地區方言地圖集》熱賣到絕版，不過最近要重出了。&lt;/p&gt;
+&lt;p&gt;我基本上聽不太懂，但湊湊熱鬧，增點見聞。&lt;/p&gt;
+&lt;h3 id=&#34;-莆仙方言的保守性&#34;&gt;✷ 莆仙方言的保守性&lt;/h3&gt;
+&lt;p&gt;方言地圖顯示北部閩語特色〈居居〉皆念成撮口音 -y&lt;/p&gt;
+&lt;p&gt;南部閩語只有莆仙方言唸成 -y ，其他南閩語方言發生了多樣的變異。&lt;/p&gt;
+&lt;p&gt;莆仙方言大部分方言都有鼻化元音，這是南部閩語的共同創新。&lt;/p&gt;
+&lt;p&gt;從進化分類學看，閩語應別為「內陸閩語」、「海岸閩語」；&lt;/p&gt;
+&lt;p&gt;海岸閩語又分化為東閩語，南閩語兩大類，從語言圈的觀念，內陸閩語和東閩語可合併為北部閩語。&lt;/p&gt;
+&lt;h3 id=&#34;-閩南語鼻化元音的崩潰&#34;&gt;✷ 閩南語鼻化元音的崩潰&lt;/h3&gt;
+&lt;p&gt;鼻化音韻母是南閩語的特色，有沒有鼻化韻是區別南、北閩語的主要區別性特徵。&lt;/p&gt;
+&lt;p&gt;閩北語沒有鼻化元音。&lt;/p&gt;
+&lt;p&gt;鼻化音發音時除了口腔開放，鼻腔也要同時開放，比較難發音。&lt;/p&gt;
+&lt;p&gt;屬於有標音。有標音變成無標音是語言變化的趨勢，稱為鼻化元音崩潰。&lt;/p&gt;
+&lt;p&gt;1.去鼻化：石獅方言、海南方言&lt;/p&gt;
+&lt;p&gt;2.輔音化：&lt;em&gt;-uinn&amp;gt;-ng（飯、媒）；&lt;/em&gt;-onn&amp;gt;-ng（糖、兩）&lt;/p&gt;
+&lt;p&gt;3.去中元音化：&lt;/p&gt;
+&lt;p&gt;鼻化元音的位移&lt;/p&gt;
+&lt;p&gt;✷ enn&amp;gt;inn(泉）；ionn&amp;gt;iunn&amp;gt;ing(泉）；enn&amp;gt;ann(莆田、大田）；&lt;/p&gt;
+&lt;p&gt;uenn&amp;gt;uann(漳）&lt;/p&gt;
+&lt;p&gt;✷ &lt;em&gt;-erinn&amp;gt;&lt;/em&gt;-irinn&amp;gt;-uinn(泉）；&amp;gt;-ainn(同安）&lt;/p&gt;
+&lt;p&gt;✷ 台灣語言學史的一個探討&lt;/p&gt;
+&lt;p&gt;疑問：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;宜蘭話是純漳腔方言嗎？如果是，來自哪一種漳腔次方言？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如地圖所示 *-uinn源自漳腔區無異&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;如果是混合方言，宜蘭方言的異質特色iunn變體是哪裡來的？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;根據〈箱薑白〉韻類 iunn 變體是泉音。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;漳州腔的大本營：宜蘭方言調查紀行（洪惟仁，台灣方言之旅，1992）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;主張宜蘭方言具有 95% 的漳腔，其中5% 的非漳腔指的是念泉音-iunn，推斷源自台北泉腔方言的擴散&lt;/p&gt;
+&lt;p&gt;以上這些鼻化元音不能逆向改變&lt;/p&gt;
+&lt;h3 id=&#34;-台灣漳海腔方言史的重建&#34;&gt;✷ 台灣漳海腔方言史的重建&lt;/h3&gt;
+&lt;p&gt;修正觀點：&lt;/p&gt;
+&lt;p&gt;三十年前的老派宜蘭腔還沒有受到台北泉腔或普通腔很大的污染，仍然保存著相當純粹的原鄉漳味。漳海腔〈箱薑白〉唸成 -iunn。&lt;/p&gt;
+&lt;p&gt;南閩州&lt;/p&gt;
+&lt;p&gt;高雄是混合腔，南閩州以漳泉閩南語混合腔佔優勢。&lt;/p&gt;
+&lt;p&gt;Koineization&lt;/p&gt;
+&lt;h3 id=&#34;台灣的閩南語化分成三個時期&#34;&gt;台灣的閩南語化分成三個時期&lt;/h3&gt;
+&lt;p&gt;初期的原鄉效應與聚落興土化的行程，也就是各個大大小小的聚落方言。&lt;/p&gt;
+&lt;p&gt;中期的區域洪水效應與通行語的形成。個個台灣大方言區內的方言片都是區域通行語，&lt;/p&gt;
+&lt;p&gt;其中南閩州是最大型的區域通行語化。漳泉方言的區別在北周已經極為模糊。&lt;/p&gt;
+&lt;p&gt;近期的大洪水效應與普通腔的產生，即戰後逐漸成形的台灣普通腔。&lt;/p&gt;
+&lt;p&gt;其他剩餘摘抄的句子&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;中文系讀聲韻學時有時候會流傳一個說法，古代人講話會像閩南語；但是老師不置可否。老師認為民族主義的感情不要亂放，要抱持做科學的精神，不然沒辦法做研究了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;你說音變有規律嗎？音變有規律，但是語言學家常常把規則過度概略化，講得斬釘截鐵，這可能也是一種迷思。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;念語言學最好懂點生物學。中文系大部分都是閉門造車，光幫滂並明都搞不清楚了，真正搞得清楚就是高本漢。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;lt;&amp;ndash;躺著也中槍&amp;hellip;但我覺得他講的某部分我可以認同，這是做田野調查的人的真心話。&lt;/p&gt;
+&lt;p&gt;3.要做語言學就是要專心，恩師是鍾露昇，研究地理語言學閩南語在台灣的分布，因此我一輩子只做一件事。所謂樣樣通樣樣疏鬆。&lt;/p&gt;
+&lt;p&gt;你不用是很乖的學生，但是要很會觀察跟思考，要有宏觀的視野跟精密的觀察，去思考一個語言的發展規律。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>記「矮鵝～台語有文法耶？！」講座</title>
+        <link>https://teachingmandarin22.github.io/p/%E8%A8%98%E7%9F%AE%E9%B5%9D%E5%8F%B0%E8%AA%9E%E6%9C%89%E6%96%87%E6%B3%95%E8%80%B6%E8%AC%9B%E5%BA%A7/</link>
+        <pubDate>Tue, 18 Apr 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E8%A8%98%E7%9F%AE%E9%B5%9D%E5%8F%B0%E8%AA%9E%E6%9C%89%E6%96%87%E6%B3%95%E8%80%B6%E8%AC%9B%E5%BA%A7/</guid>
+        <description>&lt;p&gt;今天筆記的是之前看到&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/lilicoco_tong/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@lilicoco_tong&lt;/a&gt;(阿東的哩哩叩叩 | 台語小教室)所推薦的講座，
+是《語言學家解破台語》的作者劉承賢老師關於台語文法的講座～&lt;/p&gt;
+&lt;h3 id=&#34;老師先從詞開始介紹&#34;&gt;老師先從「詞」開始介紹，&lt;/h3&gt;
+&lt;p&gt;像是東亞漢字文化圈，例如台語、中文、韓語、越南語都有大量的共通詞。&lt;/p&gt;
+&lt;p&gt;然而這裡有一個現象就是「不對應性」：同樣的漢字在不同語言，意思跟用法都不同，舉個實例：&lt;/p&gt;
+&lt;p&gt;✷ 日文的漢字「人參」其實是華語的「胡蘿蔔」之意。&lt;/p&gt;
+&lt;p&gt;✷ 韓文的漢字「安寧」其實是華語的「你好」。&lt;/p&gt;
+&lt;p&gt;✷ 越南的漢字「博士」是華語的「醫生」。&lt;/p&gt;
+&lt;p&gt;✷ 台語的漢字「垃圾」是華語的「不乾淨」。&lt;/p&gt;
+&lt;p&gt;✷ 廣東話的「衰」是華語的「歹」。&lt;/p&gt;
+&lt;p&gt;接著，老師問大家文法是什麼？&lt;/p&gt;
+&lt;p&gt;感覺大家都很有概念，有以下回答：&lt;/p&gt;
+&lt;p&gt;✷ 語言的使用規則&lt;/p&gt;
+&lt;p&gt;✷ 文法是說話的語序結構&lt;/p&gt;
+&lt;p&gt;✷ 文法也會跟語用有關係&lt;/p&gt;
+&lt;p&gt;✷ 語感&lt;/p&gt;
+&lt;p&gt;老師研究句法，所以他也回饋語感是很重要的，這是句子構成的模式，也是語言學家依賴母語人士裡頭會去尋找的規則。&lt;/p&gt;
+&lt;p&gt;一般來說，我們熟悉的文法就像是，&lt;/p&gt;
+&lt;p&gt;動詞有時貌性數變化、名詞單複數性別變化，&lt;/p&gt;
+&lt;p&gt;但是華語跟台語沒有這些規則，並不代表沒有文法，&lt;/p&gt;
+&lt;p&gt;語言裡面的語序差別就是最重要的，如果沒有文法的話，應該亂亂排都可以。&lt;/p&gt;
+&lt;h3 id=&#34;簡單來說文法最明顯的特徵就是句子怎麼排列組合&#34;&gt;簡單來說，文法最明顯的特徵就是「句子怎麼排列組合」。&lt;/h3&gt;
+&lt;p&gt;接著，即使很多語言沒有詞尾變化，又有相同的基本語序，也不代表沒有文法差異。&lt;/p&gt;
+&lt;p&gt;雖然法語跟英語的基本語序相同，都是ＳＶＯ，&lt;/p&gt;
+&lt;p&gt;然而以「現在進行式」來舉例：&lt;/p&gt;
+&lt;p&gt;✷ John is talking with Mary.&lt;/p&gt;
+&lt;p&gt;✷ Jean parie avec Marie(詞對譯+詞法修正)&lt;/p&gt;
+&lt;p&gt;法語跟英語的副詞位置也不一樣。&lt;/p&gt;
+&lt;p&gt;老師又問大家台語跟華語有什麼不同？大家又觀察到很多有趣的現象，像是「有」字句、濁音入聲、語綴詞不一樣、台語數字後面一定要有量詞、沒有捲舌跟唇齒音等等等，接著就進入正題。&lt;/p&gt;
+&lt;h3 id=&#34;1-台語的賓語強制提前&#34;&gt;1. 台語的賓語強制提前：&lt;/h3&gt;
+&lt;p&gt;（有些文法特徵會受到華語影響會消退、但考台語檢定還是要注意啊。）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1)如果使用動詞的時候，是動作造成的結果，就需要把賓語提前：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;a. 我 飯 食 飽 -ah&lt;/p&gt;
+&lt;p&gt;b. 我 工課 做完 -ah&lt;/p&gt;
+&lt;p&gt;c. 我 火 點著 -ah&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(2) 如果動作＋了完煞好（看起來就是述補結構要提前）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;a. 我 冊 讀了 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;b. 我 宿題 寫完 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;c. 你 意見 講煞 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;d. 阿卿 衫 洗好 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;例外：邰死人、摃破歐仔的「死、破、贏、斷」這四個動詞&lt;/p&gt;
+&lt;p&gt;這些動詞全部都是非賓格動詞，沒有一個明顯的發動者，描述的是一種事態&lt;/p&gt;
+&lt;p&gt;即使有人發動，也無法掌控最終結果&lt;/p&gt;
+&lt;p&gt;（這在華語上的分類應該是一種無法持續的變化動詞？）&lt;/p&gt;
+&lt;h3 id=&#34;2構詞彈性&#34;&gt;2.構詞彈性：&lt;/h3&gt;
+&lt;p&gt;不成詞的，要中間插入「kah」、「hoo」、「beh」等虛詞會比較道地，例如：&lt;/p&gt;
+&lt;p&gt;a. 春嬌 hoo 志明罵 kah 哭 &amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;b. 嘛食 kah sian&amp;ndash;ah&lt;/p&gt;
+&lt;p&gt;c. 飼 hoo 飽&lt;/p&gt;
+&lt;p&gt;d. 唱 kah 哭&amp;ndash;ah&lt;/p&gt;
+&lt;h3 id=&#34;3動貌詞ｖ著的用法在華語是持續貌然而在台語是動作達成&#34;&gt;3.動貌詞：「Ｖ」著的用法在華語是「持續貌」，然而在台語是「動作達成」&lt;/h3&gt;
+&lt;p&gt;✷ 水順看著銀環&amp;ndash;ah &amp;ndash; 意思是看到了&lt;/p&gt;
+&lt;h3 id=&#34;4kā與把的用法台語的kā功能遠比華語的把字句豐富&#34;&gt;4.「kā」與「把」的用法：台語的「kā」功能遠比華語的把字句豐富&lt;/h3&gt;
+&lt;p&gt;能帶上「受惠者（受害者）」、「受事者」、「來源」、「目標」&lt;/p&gt;
+&lt;p&gt;完全不需要用到「幫」。&lt;/p&gt;
+&lt;p&gt;a. 添發 kā 阿卿拍&lt;/p&gt;
+&lt;p&gt;b. 添發 kā 偷走學&lt;/p&gt;
+&lt;p&gt;c. 添發 kā 阿卿買一領衫&lt;/p&gt;
+&lt;h3 id=&#34;5問句的類型與構成台語中性是非問句不用嗎作疑問助詞&#34;&gt;5.問句的類型與構成，台語中性是非問句不用「嗎」作疑問助詞。&lt;/h3&gt;
+&lt;p&gt;a. 你要去嗎？（華語）&lt;/p&gt;
+&lt;p&gt;b. 你「敢」欲去？（台語）&lt;/p&gt;
+&lt;p&gt;c.你欲去&amp;ndash;「無」（台語）&lt;/p&gt;
+&lt;p&gt;台語應該只有「是毋是」這個問句構成的用法。&lt;/p&gt;
+&lt;h3 id=&#34;6動詞形容詞重疊&#34;&gt;6.動詞、形容詞重疊。&lt;/h3&gt;
+&lt;p&gt;a. 紅紅跟紅紅紅的濃淡差別&lt;/p&gt;
+&lt;p&gt;b. 我吃吃（華語）=我食看覓（台語）&lt;/p&gt;
+&lt;p&gt;c.「講講 he!」（台語）（意思是你不該說那個的意思）=「說那個做什麼」（華語）&lt;/p&gt;
+&lt;h3 id=&#34;7-特殊的文法&#34;&gt;7. 特殊的文法&lt;/h3&gt;
+&lt;p&gt;a. 謂語重複（表示快要發生、有一種傾向）&lt;/p&gt;
+&lt;p&gt;✷ 外口 欲落雨 欲落雨(台語)=外面要下雨的感覺&lt;/p&gt;
+&lt;p&gt;b. 台語看似不合理句子：&lt;/p&gt;
+&lt;p&gt;✷ 阿忠無考駕照，伊攏駛身分證。（在鄉下紅綠燈只是參考的時候，駕照也只是參考啦。）&lt;/p&gt;
+&lt;p&gt;我覺得內容不太容易，感覺聽眾都很內行😂。收穫滿滿！&lt;/p&gt;
+&lt;p&gt;分享一下官方的&lt;a class=&#34;link&#34; href=&#34;https://medium.com/@rihssmost/%E5%AD%B8%E4%BA%BA%E9%96%8B%E8%AC%9B-%E7%9F%AE%E9%B5%9D-%E5%8F%B0%E8%AA%9E%E6%9C%89%E6%96%87%E6%B3%95%E8%80%B6-4f7ae751012a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;會後紀錄&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

@@ -1,110 +1,748 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shuoba on 華語森友會</title>
-    <link>https://teachingmandarin22.github.io/tags/shuoba/</link>
-    <description>Recent content in Shuoba on 華語森友會</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 09 Aug 2023 16:01:23 +0800</lastBuildDate><atom:link href="https://teachingmandarin22.github.io/tags/shuoba/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>10-「只要...就」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/11-zhi-yao...jiu/</link>
-      <pubDate>Wed, 09 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/11-zhi-yao...jiu/</guid>
-      <description>教材：《當代中文課程》B2L13 一、整理句子 「只要…就」，是一個條件複句。也就是說，只要滿足了某一個條件，就會產生某一個結果。 因為幾天前我也</description>
-    </item>
-    
-    <item>
-      <title>怎麼備語法課？</title>
-      <link>https://teachingmandarin22.github.io/post/how-to-prepate-grammar-class/</link>
-      <pubDate>Thu, 03 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/how-to-prepate-grammar-class/</guid>
-      <description>跟我一起備課吧！（1班） 這篇文章是參加說吧語言工作室「跟我一起備課吧！」到目前為止的感想，簡略初稿。 準備 先備知識 我認為在上這門課之前，其實要</description>
-    </item>
-    
-    <item>
-      <title>9-「一...就」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/10-yi...jiu/</link>
-      <pubDate>Tue, 01 Aug 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/10-yi...jiu/</guid>
-      <description>教材：《實用視聽華語》B2L12 &amp;amp; 《當代中文課程》B1L13 一、整理句子 （一）課文裡面的對話是：「明天我一下課，就去你們學校找你。」表示事情</description>
-    </item>
-    
-    <item>
-      <title>8-「可能補語」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/9-keneng/</link>
-      <pubDate>Tue, 25 Jul 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/9-keneng/</guid>
-      <description>教材：《實用視聽華語》B2L9 &amp;amp; 《當代中文課程》B2L8 一、我會怎麼教？ （一）先釐清一下「可能補語」究竟是指什麼意思？ 意思是說這些補語可以表</description>
-    </item>
-    
-    <item>
-      <title>7-「比較句」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/8-compare_sentence/</link>
-      <pubDate>Sun, 16 Jul 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/8-compare_sentence/</guid>
-      <description>教材：《實用視聽華語》B2L5 &amp;amp; 《當代中文課程》B1L8 （一）看起來，這次《當代中文課程》反而比《實用視聽華語》直觀。 我會想從「我比你高」切</description>
-    </item>
-    
-    <item>
-      <title>6-「著」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/6-zhe_grammar/</link>
-      <pubDate>Tue, 11 Jul 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/6-zhe_grammar/</guid>
-      <description>一、我的教學步驟？ （一） 初級語法「了」、「著」、「過」裡頭，「著」跟其他兩者比起來，看起來好像簡單一點，但仔細看下去好像又蠻複雜的。 《當代》</description>
-    </item>
-    
-    <item>
-      <title>5-「被字句」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/5-_bei_grammar-copy/</link>
-      <pubDate>Thu, 29 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/5-_bei_grammar-copy/</guid>
-      <description>這幾堂上課老師一直提醒的重點： 要能比較、評價教材的語法點，並且自行決定教學的順序 尋找情境，並且思考要怎麼導入情境 「被」跟「把」的確有相像之處</description>
-    </item>
-    
-    <item>
-      <title>4-「把字句」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/4-_ba_grammar/</link>
-      <pubDate>Wed, 28 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/4-_ba_grammar/</guid>
-      <description>教材：《實用視聽華語》B2L7 &amp;amp; 《當代中文課程》B1L15、B2L6、L7、L10 上課前，請先思考： 1.這個語法點會怎麼教？ 2.有什麼問題與</description>
-    </item>
-    
-    <item>
-      <title>3-「是...的」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/3-_shi...de_grammar/</link>
-      <pubDate>Wed, 21 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/3-_shi...de_grammar/</guid>
-      <description>以前老師講過「是…的」句的思考作業，現在重看，還是覺得這是一個蠻特別的語法。 （一）《當代中文》當中說話一直重複「是&amp;hellip;的」句： 「</description>
-    </item>
-    
-    <item>
-      <title>2-「了」課前思考課後感想</title>
-      <link>https://teachingmandarin22.github.io/post/2-_le_grammar/</link>
-      <pubDate>Mon, 12 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/2-_le_grammar/</guid>
-      <description>「了」要是仔細來談，可以講到兩個小時都不嫌多； 不如化繁為簡，先挑重點來教吧。 學界一般將「了」分成（1）跟（2)種意義，前者表示完成，後者則表</description>
-    </item>
-    
-    <item>
-      <title>1-「得」課前思考</title>
-      <link>https://teachingmandarin22.github.io/post/1-de/</link>
-      <pubDate>Tue, 06 Jun 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://teachingmandarin22.github.io/post/1-de/</guid>
-      <description>教案設計的內容主要參考自《當代中文課程》，以《新版實用視聽華語》為輔。 首先我們可以看到「得」的語法出現在第一冊第五課「牛肉麵真好吃」，那個對</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Shuoba on 華語森友會</title>
+        <link>https://teachingmandarin22.github.io/tags/shuoba/</link>
+        <description>Recent content in Shuoba on 華語森友會</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <copyright>Hazel Wu</copyright>
+        <lastBuildDate>Wed, 09 Aug 2023 16:01:23 +0800</lastBuildDate><atom:link href="https://teachingmandarin22.github.io/tags/shuoba/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>10-「只要...就」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/10-%E5%8F%AA%E8%A6%81...%E5%B0%B1%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Wed, 09 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/10-%E5%8F%AA%E8%A6%81...%E5%B0%B1%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;p&gt;&lt;code&gt;教材：《當代中文課程》B2L13&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;一整理句子&#34;&gt;一、整理句子&lt;/h1&gt;
+&lt;p&gt;「只要…就」，是一個條件複句。也就是說，只要滿足了某一個條件，就會產生某一個結果。&lt;/p&gt;
+&lt;p&gt;因為幾天前我也教到了「無論…都」，所以有一點想法。&lt;/p&gt;
+&lt;p&gt;（一）課文裡面提到的段落是一篇短文，裡面說：「只要在學校附近就找得到素食餐廳」。&lt;/p&gt;
+&lt;p&gt;不過這不是一個話輪，比較好的範例我認為是問答裡面的：&lt;/p&gt;
+&lt;p&gt;Ｑ：「中文好學嗎？我要怎麼學好中文？」（我稍微改了一下問答）&lt;/p&gt;
+&lt;p&gt;Ａ：「只要你每天練習說中文，就能夠看見進步等等等。」&lt;/p&gt;
+&lt;p&gt;也就是說，要「達到某一種成果，需要滿足某個條件」。&lt;/p&gt;
+&lt;p&gt;第二個問題：&lt;/p&gt;
+&lt;p&gt;Ｑ：「你覺得我買不買得起台灣中南部的房子？」&lt;/p&gt;
+&lt;p&gt;Ａ：「只要你努力存錢，有一天你就買得起台灣中南部的房子。」&lt;/p&gt;
+&lt;p&gt;第三個問題跟第四個問題，我的直覺回答不太會用「只要…就」，&lt;/p&gt;
+&lt;p&gt;第五個問題，有點像是小孩在徵求媽媽的同意：&lt;/p&gt;
+&lt;p&gt;Ｑ：「如果我們去墾丁，可不可以玩那裡的水上活動？」&lt;/p&gt;
+&lt;p&gt;Ａ：「只要你帶泳衣，我們就來報名參加。」&lt;/p&gt;
+&lt;p&gt;回頭過來看前面的句子，來想一下話輪：&lt;/p&gt;
+&lt;p&gt;Ｑ：「台北的交通是不是很方便？」&lt;/p&gt;
+&lt;p&gt;Ａ：「對啊！只要坐捷運，就能到台北很多地方去玩。」&lt;/p&gt;
+&lt;p&gt;Ｑ：「我要到哪裡才找得到提款機？」&lt;/p&gt;
+&lt;p&gt;Ａ：「你只要到郵局或便利商店，就找得到提款機，可以提錢。」&lt;/p&gt;
+&lt;p&gt;Ｑ：「我要去哪裡看見很多中國古代的東西？」&lt;/p&gt;
+&lt;p&gt;Ａ：「你只要去故宮博物院，就可以看見很多中國古代的東西。」&lt;/p&gt;
+&lt;p&gt;Ｑ：「醫生，我的感冒怎麼樣才會好？」&lt;/p&gt;
+&lt;p&gt;Ａ：「你只要多喝水、多休息，感冒就會好了。」&lt;/p&gt;
+&lt;p&gt;這樣看起來，這個問題的問法都是在尋求對方的意見或徵詢同意，我認為往這個方向去想比較好。&lt;/p&gt;
+&lt;p&gt;只不過，問句「是不是」我覺得很難操作，因為很難鋪陳。&lt;/p&gt;
+&lt;h1 id=&#34;二我會怎麼教&#34;&gt;二、我會怎麼教&lt;/h1&gt;
+&lt;p&gt;Ｑ：「中文好學嗎？我要怎麼學好中文？」（我稍微改了一下問答）&lt;/p&gt;
+&lt;p&gt;Ａ：「只要你每天練習說中文，就能夠看見進步等等等。」&lt;/p&gt;
+&lt;p&gt;請學生互相給意見，他們通常自然而然會用到「只要…就」。&lt;/p&gt;
+&lt;p&gt;在課業上尋求意見，會出現「只要你每天好好複習，成績就會進步」，&lt;/p&gt;
+&lt;p&gt;在職場上尋求意見，可能會出現「只要你認真工作，就會獲得賞識」等等之類的。&lt;/p&gt;
+&lt;p&gt;只不過，這個句型比較麻煩的是，「就」後面是結果，有些問答在「就」的前面也會出現別的主語，這邊比較難處理。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>怎麼備語法課？</title>
+        <link>https://teachingmandarin22.github.io/p/%E6%80%8E%E9%BA%BC%E5%82%99%E8%AA%9E%E6%B3%95%E8%AA%B2/</link>
+        <pubDate>Thu, 03 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/%E6%80%8E%E9%BA%BC%E5%82%99%E8%AA%9E%E6%B3%95%E8%AA%B2/</guid>
+        <description>&lt;h3 id=&#34;跟我一起備課吧1班&#34;&gt;跟我一起備課吧！（1班）&lt;/h3&gt;
+&lt;p&gt;這篇文章是參加&lt;a class=&#34;link&#34; href=&#34;https://www.sblc.tw/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;說吧語言工作室&lt;/a&gt;「跟我一起備課吧！」到目前為止的感想，簡略初稿。&lt;/p&gt;
+&lt;h2 id=&#34;準備&#34;&gt;準備&lt;/h2&gt;
+&lt;h3 id=&#34;先備知識&#34;&gt;先備知識&lt;/h3&gt;
+&lt;p&gt;我認為在上這門課之前，其實要對「語法」是什麼樣子要有一個基本的認識在，也就是了解漢語語言學這門學科：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;漢語的語法特色：以虛詞來表達語法手段，三大「了著過」的時貌標記&lt;/li&gt;
+&lt;li&gt;連接詞的邏輯關係&lt;/li&gt;
+&lt;li&gt;語序對於語意表達的重要性&lt;/li&gt;
+&lt;li&gt;詞跟詞如何組合、詞組跟詞組如何組合、句子跟語段組合的規則。&lt;/li&gt;
+&lt;li&gt;分析句子的語法成分&lt;/li&gt;
+&lt;li&gt;漢語特殊句型：把字句、被字句、有、比較句&lt;/li&gt;
+&lt;li&gt;疑問句：嗎跟呢的不同&lt;/li&gt;
+&lt;li&gt;否定句：不沒別的不同&lt;/li&gt;
+&lt;li&gt;會、可能、可以&lt;/li&gt;
+&lt;li&gt;離合詞&amp;hellip;.等等等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;看教材的方法&#34;&gt;看教材的方法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;首先要先把教材看過一次，所謂的「看」，是指：
+&lt;ul&gt;
+&lt;li&gt;去看教材所提供的句子當中，裡頭的結構以及功能。（像是昨天我就沒有注意到「了」）&lt;/li&gt;
+&lt;li&gt;看這些句子，思考要怎麼設計提問&lt;/li&gt;
+&lt;li&gt;一把抓出適用情境&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;通常，《實用視聽華語》當中，裡面的結構會比較多元，而《當代》拆得比較零散&lt;/li&gt;
+&lt;li&gt;但是也不要受限於教材，有部分的句子是為語法而造句，實在不是真實生活上會講、常講的，例如「我不比你高」。如果把這個句子教給學生並且操練，並不實用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;統整&#34;&gt;統整&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;統整：然後，分析這些結構與功能不同的句子。
+&lt;ul&gt;
+&lt;li&gt;有時候，結構不一樣，但是語意卻一樣。&lt;/li&gt;
+&lt;li&gt;思考結構功能要如何和搭配&lt;/li&gt;
+&lt;li&gt;如何切入、從哪一個方向導入&lt;/li&gt;
+&lt;li&gt;像是比較句當中，一個比較正常的比較情境會有很多種回答：
+&lt;ul&gt;
+&lt;li&gt;「跟…一樣」、「我比你高」、「我沒有你那麼高」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;同時，也需要注意以前是否已經教過類似的語法了，因為《當代中文》有時會把同樣一個語法不同功能拆在不同課來教，例如「著」，此時，老師需要按照自己的教學觀點，選擇要將這些語法合併教或者是拆開來教。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;設計教案&#34;&gt;設計教案&lt;/h2&gt;
+&lt;p&gt;通常，這個步驟是跟統整一起同步進行的，綜合考量結構語意的難易度，並且安排順序，開始思考具體的教學步驟。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;教學步驟：
+&lt;ul&gt;
+&lt;li&gt;在找出結構以及情境時，先讓學生熟悉結構，但是在操作的過程上可能會很慢，但是，同時需要讓學生了解意義。&lt;/li&gt;
+&lt;li&gt;熟悉結構的下一步，接下來通常會是「代換」，例如多想幾個例子讓學生熟悉。&lt;/li&gt;
+&lt;li&gt;接下來就是「鞏固」，依照這個語法的特性去想鞏固的方式。
+&lt;ul&gt;
+&lt;li&gt;比較句會用到很多「形容詞」，所以除了語法之外，也會有許多形容詞。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;思考教學提問以及資訊提問，由控制到開放。&lt;/li&gt;
+&lt;li&gt;開始做簡報：
+&lt;ul&gt;
+&lt;li&gt;哪些圖或照片能夠清楚傳達情境&lt;/li&gt;
+&lt;li&gt;哪些字在前面的步驟有，但是到後面需要省略（讓學生練習聽力）&lt;/li&gt;
+&lt;li&gt;動畫順序的安排（這個很重要，卻容易被忽略）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;檢討&#34;&gt;檢討&lt;/h2&gt;
+&lt;p&gt;教完之後應該還會有一 part 是記錄學生學完之後的回饋，思考教材可以如何改進。&lt;/p&gt;
+&lt;h3 id=&#34;心得&#34;&gt;心得&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;用華語教學的觀點重新複習漢語語言學，對文法的目的以及功能會有另一種覺察，除了生活上會開始不自覺地去聽別人說話為什麼會用這樣的語法（以及發音）之外，也會不斷地思考什麼是好的教與學。&lt;/li&gt;
+&lt;li&gt;母語人士的語料是很鮮活真實的，身在其中反而有時會看得很模糊。準備語法的過程當中，問問身邊非華語教學相關人士怎麼說都會很有幫助。如果母語人士都不說那些句子，那麼沒有必要去教教材上生硬的句子。&lt;/li&gt;
+&lt;li&gt;在上這門課的過程當中，除了課前預習（先看教材、上網看其他老師怎麼教）、寫課前思考之外，課程當中需要腦力激盪、回答老師丟出來的問題，課後需要重看錄影並且製作出教案，整個一趟 run 下來，是非常花時間的一件事！（就算製作教案，我目前多半是依樣畫葫蘆複製老師架構做些修改而已）&lt;/li&gt;
+&lt;li&gt;除了花時間之外，我體認到備課是一段非常瑣碎的過程，當中還有許多決策要做：例如，我蒐集這個語法點的資料要蒐到什麼程度才可以停止？我為什麼要選擇先從這個語法點/結構/情境開始教？我選擇切入的方式是什麼？我怎麼設計提問以及回饋的策略是什麼？我怎麼安排簡報的結構？等等等，因為細節非常多，可以說如果這週沒有完成這週該做的事，下週就會忘記老師在說什麼了，非常恐怖。&lt;/li&gt;
+&lt;li&gt;但同時也是很有成就感的一件事。華語教學語法這個題目，我發現圖書館幾乎找不到合適的參考書目（除了《語法向前走》我覺得還不錯，實用）。即使搜尋碩博士論文，針對某些語法會詳細分析結構跟功能，會建議讀者教學語法的「順序」，但是我只能說太學術了，常常花時間掃完一本論文得到的東西卻很少，反而因為論文講得太詳細，害怕自己產生掛一漏萬之弊（也就是看完論文之後反而想太多，越看越模糊），而越不知道怎麼教。&lt;/li&gt;
+&lt;li&gt;還沒寫完，待補，這個頁面仍然會持續修改。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;log&#34;&gt;log&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2023.08.03&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>9-「一...就」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/9-%E4%B8%80...%E5%B0%B1%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Tue, 01 Aug 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/9-%E4%B8%80...%E5%B0%B1%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;p&gt;&lt;code&gt;教材：《實用視聽華語》B2L12 &amp;amp; 《當代中文課程》B1L13&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;一整理句子&#34;&gt;一、整理句子&lt;/h1&gt;
+&lt;p&gt;（一）課文裡面的對話是：「明天我一下課，就去你們學校找你。」表示事情前後接著，距離的時間很短。&lt;/p&gt;
+&lt;p&gt;我覺得有幾個例子是生活中確實會用到的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我每天的習慣是一起床，就刷牙洗臉。一回家，就洗澡。&lt;/li&gt;
+&lt;li&gt;我每天的生活很規律，一放學就回家、一放學就去圖書館…&lt;/li&gt;
+&lt;li&gt;我累得一躺下，就睡著了。&lt;/li&gt;
+&lt;li&gt;我一看到牙醫，就開始緊張。&lt;/li&gt;
+&lt;li&gt;我一看到喜歡的人，臉就會紅。&lt;/li&gt;
+&lt;li&gt;我一喝水，就會胖。&lt;/li&gt;
+&lt;li&gt;我一打開書本，就想睡覺。&lt;/li&gt;
+&lt;li&gt;我一踏出家門，就下起了雨。&lt;/li&gt;
+&lt;li&gt;同學一聽到上課鐘聲響了，就要趕快回到教室。&lt;/li&gt;
+&lt;li&gt;他們一聽到這個好消息，就開始歡呼。&lt;/li&gt;
+&lt;li&gt;我覺得一遇到困難就放棄是不好的做事態度。&lt;/li&gt;
+&lt;li&gt;他只要一開始打電動，就停不下來。&lt;/li&gt;
+&lt;li&gt;一想到明天要去看醫生，我就開始擔心。&lt;/li&gt;
+&lt;li&gt;天一亮，我們就整裝出發。&lt;/li&gt;
+&lt;li&gt;一到五點半，所有人就離開了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但感覺這除了時間短之外，也有因果關係。&lt;/p&gt;
+&lt;p&gt;我看到網路上有教學的句子是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;早上我坐火車的時候，台北在下雨。&lt;/li&gt;
+&lt;li&gt;到宜蘭的時候，也在下雨。&lt;/li&gt;
+&lt;li&gt;可是，到了花蓮的時候，太陽就出來了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;→我一到花蓮，太陽就出來了。&lt;/p&gt;
+&lt;p&gt;不過，這是主語不一樣的句子。&lt;/p&gt;
+&lt;p&gt;《當代》所說的問句的用法是添加「嗎？」以及「是不是」，例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你一寫完作業，就寄給老師批改嗎？&lt;/li&gt;
+&lt;li&gt;你是不是一寫完作業，就寄給老師批改？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;二我會怎麼教&#34;&gt;二、我會怎麼教&lt;/h1&gt;
+&lt;p&gt;理論上，學生應該要懂「就」的用法才對。複習一下前面所教過的「就」的用法。&lt;/p&gt;
+&lt;p&gt;（1）我選擇的切入的情境會是：&lt;/p&gt;
+&lt;p&gt;我每天早上起床，接著刷牙洗臉。&lt;/p&gt;
+&lt;p&gt;—&amp;gt; 我每天早上一起床就刷牙洗臉。（刷牙洗臉一起教，因為這是個慣用語）&lt;/p&gt;
+&lt;p&gt;（2）看看上面的句子，我也會找圖片請學生描述「一…就」的語法，讓學生熟悉這種表達方式。&lt;/p&gt;
+&lt;p&gt;（3）想到可以問學生的問句：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你是不是一起床就刷牙洗臉？&lt;/li&gt;
+&lt;li&gt;什麼事情你一想到，就開始害怕/緊張？&lt;/li&gt;
+&lt;li&gt;什麼事情你一開始做，就停不下來？&lt;/li&gt;
+&lt;li&gt;你是一躺下，就睡著的人嗎？&lt;/li&gt;
+&lt;li&gt;你認同一遇到困難就放棄的價值觀嗎？&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>8-「可能補語」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/8-%E5%8F%AF%E8%83%BD%E8%A3%9C%E8%AA%9E%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Tue, 25 Jul 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/8-%E5%8F%AF%E8%83%BD%E8%A3%9C%E8%AA%9E%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;p&gt;&lt;code&gt;教材：《實用視聽華語》B2L9 &amp;amp; 《當代中文課程》B2L8&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;一我會怎麼教&#34;&gt;一、我會怎麼教？&lt;/h1&gt;
+&lt;h3 id=&#34;一先釐清一下可能補語究竟是指什麼意思&#34;&gt;（一）先釐清一下「可能補語」究竟是指什麼意思？&lt;/h3&gt;
+&lt;p&gt;意思是說這些補語可以表達「可實現的」、「可達成的」、「可完成的」，&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但不過在說話的當下，還沒有實現。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所以也可以透過問句，來詢問實現的可能性。&lt;/p&gt;
+&lt;h3 id=&#34;二照例排序一下這些課本句子的難度先由具象到抽象第一個先想到的是感官動詞&#34;&gt;（二）照例，排序一下這些課本句子的難度，先由具象到抽象，第一個先想到的是感官動詞：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;你聽得到外頭的吵鬧聲嗎？我聽不見，因為我戴耳機。&lt;/li&gt;
+&lt;li&gt;你看得到那個人嗎？你看不見這個字嗎？我沒有看見。&lt;/li&gt;
+&lt;li&gt;你看得清楚這個字嗎？&lt;/li&gt;
+&lt;li&gt;你聞得到臭豆腐的味道嗎？&lt;/li&gt;
+&lt;li&gt;你嘗得到辣椒的味道嗎？&lt;/li&gt;
+&lt;li&gt;你摸得到那顆石頭嗎？&lt;/li&gt;
+&lt;li&gt;你走得/跑得/拿得/搬得/站得上去&lt;/li&gt;
+&lt;li&gt;穿戴掛&lt;/li&gt;
+&lt;li&gt;過/進得來/不去&lt;/li&gt;
+&lt;li&gt;吃得完&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.比較抽象的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你看得懂這本書嗎？&lt;/li&gt;
+&lt;li&gt;你聽得懂我在說什麼嗎？你聽得懂他講的中文嗎？&lt;/li&gt;
+&lt;li&gt;我認識他，但是他的名字我想不起來。&lt;/li&gt;
+&lt;li&gt;昨天熬夜熬太晚，當然起不來。&lt;/li&gt;
+&lt;li&gt;只有一個星期，怎麼學得會開車？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;三沒辦法&#34;&gt;（三）沒辦法&lt;/h3&gt;
+&lt;p&gt;視聽華語的「沒辦法上去」、「沒辦法搬上來」、「沒辦法開走」、「走回去」合併處理。&lt;/p&gt;
+&lt;h3 id=&#34;四綜合&#34;&gt;（四）綜合&lt;/h3&gt;
+&lt;p&gt;這個語法是可能補語，然而要跟「得」搭配，&lt;/p&gt;
+&lt;p&gt;我會選擇的第一個情境會是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;老師：「你聽得到聽不到我說的話？」（我在思考還是要用「你聽不聽得到我說的話？」、「你聽得到我說的話嗎」這兩種形式。&lt;/p&gt;
+&lt;p&gt;學生：「我聽得到/聽不到/沒辦法聽到老師說的話。」&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;老師：「你聽得清楚聽不清楚我說的話嗎？」&lt;/p&gt;
+&lt;p&gt;學生：「我聽得清楚/聽不清楚/沒辦法聽清楚。」&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;老師：「今天的課程，你聽得懂聽不懂？」&lt;/p&gt;
+&lt;p&gt;學生：「我聽得懂/聽不懂/沒辦法聽懂。」&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;老師：「今天的作業，你寫得完寫不完？」&lt;/p&gt;
+&lt;p&gt;學生：「我寫得完/我寫不完/我沒辦法寫完」&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;學生應該可以聽得懂老師在詢問那個「可能性」，上網查了一些資料，可能補語的「否定」使用時機會遠遠大於「肯定」，所以，需要訓練學生拒絕或否定的情況：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;圖片：一個超級大的蛋糕&lt;/p&gt;
+&lt;p&gt;老師：「這麼大的蛋糕，你一個人吃得完嗎？」&lt;/p&gt;
+&lt;p&gt;學生：「我一個人吃不完」&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;圖片：一輛跑車&lt;/p&gt;
+&lt;p&gt;老師：「這輛跑車，你買得起嗎？」&lt;/p&gt;
+&lt;p&gt;學生：「我買不起。」&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;老師：「明天我們五點起來去爬陽明山好嗎？」&lt;/p&gt;
+&lt;p&gt;學生：「沒辦法，我起不來。」&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;店員：「今天的巧克力蛋糕買一送一喔！」&lt;/p&gt;
+&lt;p&gt;顧客：「不用了，我吃不完。」&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;教練：「你開車怎麼開得那麼糟糕呢？」&lt;/p&gt;
+&lt;p&gt;學生：「抱歉，我學不會：」&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;老闆：「明天所有的人留下來加班三小時。」&lt;/p&gt;
+&lt;p&gt;員工：「不好意思，我做不到。」&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;二遇到的問題&#34;&gt;二、遇到的問題&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;可能補語也會搭配很多「起來」「下去」「上來」「過去」等複合趨向動詞，要讓學生熟悉搭配用法。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>7-「比較句」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/7-%E6%AF%94%E8%BC%83%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Sun, 16 Jul 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/7-%E6%AF%94%E8%BC%83%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;p&gt;&lt;code&gt;教材：《實用視聽華語》B2L5 &amp;amp; 《當代中文課程》B1L8&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一看起來這次當代中文課程反而比實用視聽華語直觀&#34;&gt;（一）看起來，這次《當代中文課程》反而比《實用視聽華語》直觀。&lt;/h2&gt;
+&lt;p&gt;我會想從「我比你高」切入。&lt;/p&gt;
+&lt;p&gt;照例，我先排序一下句子：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你比我忙/你不比我忙。&lt;/li&gt;
+&lt;li&gt;你比我大/小。&lt;/li&gt;
+&lt;li&gt;今天比昨天冷/熱。&lt;/li&gt;
+&lt;li&gt;山上的風景比城市的風景漂亮/美。&lt;/li&gt;
+&lt;li&gt;iphone 比 zenfone 貴/便宜。&lt;/li&gt;
+&lt;li&gt;坐飛機比坐火車快/慢。&lt;/li&gt;
+&lt;li&gt;看電影比打籃球有意思/好玩/無聊。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;二再來重看視聽華語的ａ跟ｂ不一樣ｓｖ&#34;&gt;（二）再來重看《視聽華語》的Ａ跟Ｂ（不）一樣ＳＶ：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我跟他一樣/不一樣高&lt;/li&gt;
+&lt;li&gt;今天的天氣跟昨天的天氣一樣/不一樣熱。&lt;/li&gt;
+&lt;li&gt;這件衣服跟那件一樣/不一樣長。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這裡沒問題。&lt;/p&gt;
+&lt;p&gt;《視聽華語》麻煩的點在於，中間還插了一個「得」的語法，學生理論上要已經會用「得」了，才能熟悉這個句型：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;他吃飯吃得很多——他吃飯吃得跟我一樣多。&lt;/li&gt;
+&lt;li&gt;我開車開得跟快——他開車開得跟我一樣快。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更麻煩的地方在於，否定的用法又增加了「沒」跟「不」，令人困惑：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我沒有像他那麼高＝我不像他那麼高。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;而且還有加上那麼、這麼：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我妹不像我那麼胖。&lt;/li&gt;
+&lt;li&gt;我妹不像我這麼胖。&lt;/li&gt;
+&lt;li&gt;我妹沒有我這麼胖。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;接下來又是「得」：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我說英文說得沒有你這麼好。（極度彆扭，我不會這樣說…）&lt;/li&gt;
+&lt;li&gt;我說英文不像你說得這麼好。（好多了）&lt;/li&gt;
+&lt;li&gt;我說英文沒有你說得這麼好。（我會這樣用）&lt;/li&gt;
+&lt;li&gt;我說英文說得不像你這麼好。（朋友提供）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;太多 variables 了，感覺學生很難記得清。&lt;/p&gt;
+&lt;h2 id=&#34;三重新整理一下我會從視聽華語的ａ跟ｂ不一樣ｓｖ切入情境&#34;&gt;（三）重新整理一下，我會從《視聽華語》的「Ａ跟Ｂ（不）一樣ＳＶ」切入情境：&lt;/h2&gt;
+&lt;p&gt;先讓學生練習正面表述的「我跟他一樣高」，若是不一樣高，則進入當代中文的「他比我高，或他比我矮，或我比他高，或我比他矮。」。&lt;/p&gt;
+&lt;p&gt;老師問「你跟他一樣高嗎？」，再讓學生練習。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;問學生「今天的天氣跟昨天的天氣一樣熱嗎？」。
+&lt;ul&gt;
+&lt;li&gt;如果不一樣熱，問學生今天的天氣比昨天熱嗎？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「你跟他一樣大嗎？」，「他比我大」、「他比我小」。&lt;/li&gt;
+&lt;li&gt;某某明星跟某某明星一樣漂亮/帥嗎？不，某某明星比某某明星漂亮/帥。&lt;/li&gt;
+&lt;li&gt;這家滷肉飯好吃，那家滷肉飯也好吃，這家跟那家一樣好吃嗎？還是這家比那家好吃？&lt;/li&gt;
+&lt;li&gt;星巴克咖啡比 cama 好喝嗎？星巴克咖啡比 cama 咖啡貴嗎？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;→這些比較句也包含了反義詞的比較。&lt;/p&gt;
+&lt;h2 id=&#34;四再來進入得的比較法&#34;&gt;（四）再來進入「得」的比較法：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;你說中文說得跟他一樣好嗎？－你說英文說得比我好。&lt;/li&gt;
+&lt;li&gt;你開車開得跟他一樣快嗎？—你開車開得比我快。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;→這邊好難，有點想不到切入的情境。&lt;/p&gt;
+&lt;p&gt;總而言之，我覺得這個比較句本身的「情境」其實很好找，就是讓學生大量比較（並且練習形容詞），生活上會拿來比較的就是東西的價錢、食物好不好吃、什麼事物的好或壞等。但是這邊的結構有點難，具體我還需要時間想。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>6-「著」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/6-%E8%91%97%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Tue, 11 Jul 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/6-%E8%91%97%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;h1 id=&#34;一我的教學步驟&#34;&gt;一、我的教學步驟？&lt;/h1&gt;
+&lt;h2 id=&#34;一&#34;&gt;（一）&lt;/h2&gt;
+&lt;p&gt;初級語法「了」、「著」、「過」裡頭，「著」跟其他兩者比起來，看起來好像簡單一點，但仔細看下去好像又蠻複雜的。&lt;/p&gt;
+&lt;p&gt;《當代》出現的課文是出現在「看著」手機裡的地圖，整理以下例句依易至難排序：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;看著、聽著、坐著、拿著、走著、帶著、載著、跳著&lt;/li&gt;
+&lt;li&gt;等著、陪著、住著&lt;/li&gt;
+&lt;li&gt;下著雨&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;二ｖ著ｎ&#34;&gt;（二）Ｖ著Ｎ&lt;/h2&gt;
+&lt;p&gt;「著」看起來像是在描述一種狀態，如果是我要選切入的情景的話，會是試著讓學生描述&lt;/p&gt;
+&lt;p&gt;「看著書」、「聽音樂」、「戴著帽子」、「穿著襯衫」等等的狀態。&lt;/p&gt;
+&lt;p&gt;圖片大概三張，例如在客廳的人正在做什麼？早上出門爬山要穿戴著什麼？&lt;/p&gt;
+&lt;h2 id=&#34;三ｖ著-acts&#34;&gt;（三）Ｖ著 acts&lt;/h2&gt;
+&lt;p&gt;這個對我來說有點難想，不過看起來像是「一邊做什麼…..ㄧ邊做什麼」，也很常見。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;他看著手機吃飯&lt;/li&gt;
+&lt;li&gt;老師站著說話&lt;/li&gt;
+&lt;li&gt;關著燈／開著燈睡覺也蠻常見的用法，怎麼切入&lt;/li&gt;
+&lt;li&gt;聽著音樂讀書—&amp;gt; 對學生來說應該也很常見&lt;/li&gt;
+&lt;li&gt;戴著耳機跑步&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這項的圖片感覺跟上面的會略微不同。&lt;/p&gt;
+&lt;h2 id=&#34;四ｖ著ｏ&#34;&gt;（四）Ｖ著Ｏ&lt;/h2&gt;
+&lt;p&gt;命令式的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;看著我&lt;/li&gt;
+&lt;li&gt;你們聽著&lt;/li&gt;
+&lt;li&gt;記著這件事&lt;/li&gt;
+&lt;li&gt;等著別走開&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這個很像是老師或者是爸媽、老闆在發號施令，這邊的圖片比較不難找，&lt;/p&gt;
+&lt;p&gt;命令式的情境學生應該也能很快記住。&lt;/p&gt;
+&lt;h1 id=&#34;二還遇到什麼問題&#34;&gt;二、還遇到什麼問題？&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;視聽華語的 S1 V著 V著，S2 V2O2 了感覺起來像是「重複義」，這個視情況教。&lt;/li&gt;
+&lt;li&gt;看起現在，感覺上視聽華語的語法好像比當代編排得完整一些，能給我比較多想法。&lt;/li&gt;
+&lt;li&gt;備課備到現在，我覺得找合適的圖片也是很花時間的事！&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>5-「被字句」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/5-%E8%A2%AB%E5%AD%97%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Thu, 29 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/5-%E8%A2%AB%E5%AD%97%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;p&gt;這幾堂上課老師一直提醒的重點：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;要能比較、評價教材的語法點，並且自行決定教學的順序&lt;/li&gt;
+&lt;li&gt;尋找情境，並且思考要怎麼&lt;strong&gt;導入情境&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;「被」跟「把」的確有相像之處：它同樣會對一項「人事物」做動作，是有意為之，也使它產生改變。&lt;/li&gt;
+&lt;li&gt;比較明顯的差別可能在於：「被」是從「受事者」的角度來看這個事件。&lt;/li&gt;
+&lt;li&gt;「了」會讓學生混淆，因此，我刪除「了」。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;一、&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;最常用到的是在描述一個不幸、或不想發生的的事件，觀察以下句子，例如：
+&lt;ol&gt;
+&lt;li&gt;我的車被偷走&lt;/li&gt;
+&lt;li&gt;我的錢包被搶/拿走&lt;/li&gt;
+&lt;li&gt;我被他欺騙&lt;/li&gt;
+&lt;li&gt;窗戶被人打破&lt;/li&gt;
+&lt;li&gt;地板被狗狗弄髒&lt;/li&gt;
+&lt;li&gt;電風扇被誰弄壞&lt;/li&gt;
+&lt;li&gt;被弄死&lt;/li&gt;
+&lt;li&gt;被媽媽打/罵&lt;/li&gt;
+&lt;li&gt;被看見&lt;/li&gt;
+&lt;li&gt;被發現&lt;/li&gt;
+&lt;li&gt;被吃完&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;抽象的語意：
+&lt;ol&gt;
+&lt;li&gt;我被你弄糊塗&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;二、怎麼教&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;所以，如果要選切入的情境，我會想選「蛋糕被弟弟吃了」，前面的鋪陳會是：我愛吃這塊蛋糕，捨不得吃，想過幾天再吃。沒想到放學回家時，卻發現蛋糕被弟弟吃掉了，我很生氣。&lt;/li&gt;
+&lt;li&gt;第二個情境我會想先找一個圖片，類似小朋友或寵物在家玩，把地板弄髒、電視弄壞、碗盤打破、把電器弄壞，回來的時候被罵了，甚至被打了。（不過圖片很難找）&lt;/li&gt;
+&lt;li&gt;「偷」「搶」「騙」「抓」似乎可以是一組情境，但也要有小偷做動作，警察抓人的圖片。&lt;/li&gt;
+&lt;li&gt;在資訊提問上，可以問學生：
+&lt;ol&gt;
+&lt;li&gt;「你的名字被拼錯過嗎？」&lt;/li&gt;
+&lt;li&gt;「什麼事情你不想被家人知道，可是被家人發現了？」&lt;/li&gt;
+&lt;li&gt;「你被誰誤會過嗎？」&lt;/li&gt;
+&lt;li&gt;「你被當掉過什麼課嗎？」&lt;/li&gt;
+&lt;li&gt;「你被人討厭過嗎？」—&amp;gt; 學生學過「過了」，應該沒問題&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;三、其他問題&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;「把」跟「被」的差別。&lt;/li&gt;
+&lt;li&gt;「讓」、「叫」可以不教嗎？感覺學生會混淆，而且使用頻率略低。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>4-「把字句」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/4-%E6%8A%8A%E5%AD%97%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Wed, 28 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/4-%E6%8A%8A%E5%AD%97%E5%8F%A5%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;p&gt;教材：《實用視聽華語》B2L7 &amp;amp; 《當代中文課程》B1L15、B2L6、L7、L10&lt;/p&gt;
+&lt;p&gt;上課前，請先思考：&lt;/p&gt;
+&lt;p&gt;1.這個語法點會怎麼教？&lt;/p&gt;
+&lt;p&gt;2.有什麼問題與困難？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;看完老師截圖的例句，我會想要從易至難，先教命令句：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一張老師上課的圖片：「把燈打開」、「把書本打開」、「把窗戶打開」、「把衣服穿上？」→這邊具體的情境有點難想&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其次，再教：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;「你把藥吃了沒有？」「我把藥吃了」&lt;/li&gt;
+&lt;li&gt;「你把功課寫了沒有？」「我把功課寫了」&lt;/li&gt;
+&lt;li&gt;「誰把我的咖啡喝了？」「我把你的咖啡吃了」&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再來：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一張包餃子的圖片：我把餃子皮拿出來，把菜拿出來，把鹽拿出來，把料包進去。&lt;/li&gt;
+&lt;li&gt;一張整理行李的圖片：我把香皂拿出來，把牙刷拿出來，把衣服拿出來，把鑰匙拿出來，把東西放進去。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;問題和困難：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;視聽華語一下子介紹了許多用法，要融合情境教，我還在思考。&lt;/li&gt;
+&lt;li&gt;把…到/給/在，我認為是要等學生熟悉了以上用法再教會比較好。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>3-「是...的」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/3-%E6%98%AF...%E7%9A%84%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Wed, 21 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/3-%E6%98%AF...%E7%9A%84%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;p&gt;以前老師講過「是…的」句的思考作業，現在重看，還是覺得這是一個蠻特別的語法。&lt;/p&gt;
+&lt;p&gt;（一）《當代中文》當中說話一直重複「是&amp;hellip;的」句：&lt;/p&gt;
+&lt;p&gt;「你是為什麼去的？」「你是一個人去的嗎？」「你們是怎麼去的？」「你們是什麼時候回來的？」，問為什麼、問人數、問如何去、問時間，都可以用「是&amp;hellip;的」去來問。另外也有這三個句子：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「我的學費是公司替我付的。」&lt;/li&gt;
+&lt;li&gt;「是公司決定的。」&lt;/li&gt;
+&lt;li&gt;「你是什麼時候來台灣工作的？」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;根據課文的說明，「是&amp;hellip;的」可以用在 wh-question（誰、什麼時候、如何、哪裏）的過去發生事情的詢問。&lt;/p&gt;
+&lt;p&gt;例如「是誰打電話給你的？」（誰）&lt;/p&gt;
+&lt;p&gt;「他是什麼時候來學校的？」（什麼時候）&lt;/p&gt;
+&lt;p&gt;「你是怎麼去的」（如何）&lt;/p&gt;
+&lt;p&gt;「你是在哪裡吃飯的？」（哪裡）&lt;/p&gt;
+&lt;p&gt;「你是什麼東西看的？」（無法這樣用）&lt;/p&gt;
+&lt;p&gt;總而言之，如果「一個人想要了解另一個人過去發生的某件事，想要藉由各種方式得到資訊。」可以用到「是&amp;hellip;的」，這個語法的目的用來強調完成動作的時間、地點、方式、對象、目的等等等。&lt;/p&gt;
+&lt;p&gt;（二）第一種用法是「已知訊息」獲取「未知細節」，&lt;/p&gt;
+&lt;p&gt;所以，在這裡要訓練學生追問細節，並且讓學生能夠使用以下結構：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你是什麼時候來台灣的？&lt;/li&gt;
+&lt;li&gt;你是怎麼來台灣的？&lt;/li&gt;
+&lt;li&gt;你是跟誰一起來台灣的？&lt;/li&gt;
+&lt;li&gt;你是來台灣做什麼的？&lt;/li&gt;
+&lt;li&gt;你是去哪裡坐飛機的？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;談論的話題可以發想一個主軸，例如「學中文」、「旅行經驗」、「一日行程」等等。同樣套用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你是什麼時候學中文的？&lt;/li&gt;
+&lt;li&gt;你是怎麼學中文的？&lt;/li&gt;
+&lt;li&gt;你是自己學中文的？、你跟誰一起學中文的？（這個句子有沒有更好的表達？）&lt;/li&gt;
+&lt;li&gt;你是為了什麼學中文的？&lt;/li&gt;
+&lt;li&gt;你是去哪裡學中文的？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;第二種用法是糾正別人的錯誤訊息，也可以說是所說《視華》「強調」或者是「澄清」的部分。&lt;/p&gt;
+&lt;p&gt;我想到的例子有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ｑ：你是昨天感冒的嗎？&lt;/p&gt;
+&lt;p&gt;Ａ：我是上星期感冒的，不是昨天感冒的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ｑ：你這件衣服是在百貨公司買的嗎？好漂亮！&lt;/p&gt;
+&lt;p&gt;Ａ：這件衣服不是在百貨公司買的，我是在菜市場買的！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q：你的學費是爸媽付的？&lt;/p&gt;
+&lt;p&gt;Ａ：我的學費不是爸媽付的，是自己付的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ｑ：這道菜是去哪家餐廳買的。&lt;/p&gt;
+&lt;p&gt;Ｑ：這道菜不是哪家餐廳買的，是我做的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;總結：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;老師如何導入以及鋪陳情境，是學好語法的關鍵；但我認為自己在這個階段沒有掌握得很好。就像老師說，「第一個例子」很重要。&lt;/li&gt;
+&lt;li&gt;第二種用法，我認為自己應該要跟學生解釋：「當對方說的話，你想要糾正時，你也可以使用這種用法」，但我不知道自己如何確認學生懂了沒有。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>2-「了」課前思考課後感想</title>
+        <link>https://teachingmandarin22.github.io/p/2-%E4%BA%86%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83%E8%AA%B2%E5%BE%8C%E6%84%9F%E6%83%B3/</link>
+        <pubDate>Mon, 12 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/2-%E4%BA%86%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83%E8%AA%B2%E5%BE%8C%E6%84%9F%E6%83%B3/</guid>
+        <description>&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;「了」要是仔細來談，可以講到兩個小時都不嫌多；&lt;/p&gt;
+&lt;p&gt;不如化繁為簡，先挑重點來教吧。&lt;/p&gt;
+&lt;p&gt;學界一般將「了」分成（1）跟（2)種意義，前者表示完成，後者則表示情況發生了變化，今天要釐清的是「了(1）」。&lt;/p&gt;
+&lt;p&gt;想想看，我們什麼時候會用到這種句子？&lt;/p&gt;
+&lt;p&gt;例如，在上課的時候，通常會使用到的對話會是：&lt;/p&gt;
+&lt;p&gt;「你們吃完早餐了嗎？」→「吃了」&lt;/p&gt;
+&lt;p&gt;「你們寫完功課了嗎？」→「寫了」&lt;/p&gt;
+&lt;p&gt;而如果我們說：&lt;/p&gt;
+&lt;p&gt;「你現在是胖了還是瘦了？」&lt;/p&gt;
+&lt;p&gt;「以前不吃牛肉，現在開始吃了。」&lt;/p&gt;
+&lt;p&gt;這種「了」的用法則是用在情況有變的說法上。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;因此，可以發現到「了(1）」最常用到的情境，就是現代人每天會做得例行公事甚至是 to-do list，諸如每天的三餐、刷牙洗臉、洗澡、工作，寫功課之類的，用來確認大家一一完成這些事了嗎？&lt;/p&gt;
+&lt;p&gt;另外，如果仔細去問思考「了(1)」，會發現這種問法似乎用在一種預設的生命歷程，譬如說老師看到一個學生，對他說：「你畢業了嗎？」、「你寫完論文了嗎？」，長輩看到晚輩說：「你結婚了嗎？」「你生小孩了嗎？」&lt;/p&gt;
+&lt;p&gt;聽老師這樣講我覺得很有意思，我今天也問一個確診的朋友：「你身體好點了嗎？」「你看醫生了嗎？」（其實是我覺得她的身體會好一點、也需要去看醫生）&lt;/p&gt;
+&lt;p&gt;在教學時，如果我們要讓學生明白這個用法，老師需要去鋪陳、並且創造這樣的說話的情境。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;用這個想法去看《視華》的例子，教材這一課裡出現三個句型：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「我已經來了」、「我已經看見他了」&lt;/li&gt;
+&lt;li&gt;「我已經吃了飯了」（這個相對麻煩）&lt;/li&gt;
+&lt;li&gt;「沒有」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;沒有意義的做法是：一直操練結構，就是動詞後面加「了」，學生即使會造出正確的句子，但他會不清楚要用在什麼樣的場合裡頭，也就是什麼時候，我需要說這句話。這三種結構不需要分開教，要整個融合在一起教，就是要讓老師與學生能夠互動。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;思考一下，這兩個句子有什麼不同？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;(1)「你喝了咖啡嗎？」&lt;/p&gt;
+&lt;p&gt;(2)「你喝咖啡了嗎？」&lt;/p&gt;
+&lt;p&gt;這兩個句子是有差別的。有什麼差別？大家覺得呢？&lt;/p&gt;
+&lt;p&gt;(1)「你喝了咖啡嗎？」—&amp;gt;這個人平常不太喝咖啡，但你聞到咖啡的味道，所以你這樣問他。&lt;/p&gt;
+&lt;p&gt;就像，「你擦了香水嗎？」也是因為你聞到香水的味道，你問這個人是不是擦了香水。&lt;/p&gt;
+&lt;p&gt;同理，「你吃了大蒜麵包嗎？」&lt;/p&gt;
+&lt;p&gt;再極端一點，「你放屁了嗎？」嗯…&lt;/p&gt;
+&lt;p&gt;「你喝了酒嗎？」通常是這個人開始胡言亂語，所以你問他是不是喝酒了。&lt;/p&gt;
+&lt;p&gt;—&amp;gt;會這樣造句，代表情境是比較特別的狀況。&lt;/p&gt;
+&lt;p&gt;(2)你喝咖啡了嗎？」—&amp;gt; 比較像是你看到一個在人在會議上恍神，而且你知道他每天都要喝咖啡，所以問者這樣問他。&lt;/p&gt;
+&lt;p&gt;「你吃藥了嗎？」→這種問法就是最經典的「了(1)」應該要把藥吃完。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;總結：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;不要告訴學生了的用法是「完成」，老師自己知道就好。&lt;/li&gt;
+&lt;li&gt;語句一致性仍然是要注意的事。「你寫作業了嗎？」、「你作業寫了嗎？」意思一樣但會讓學生搞不清楚。&lt;/li&gt;
+&lt;li&gt;不要被教材牽著走，課本會出現一對結構正確，但沒有情境的句子。例如，「你去美國了嗎？」句子結構是對的，但是情境非常的突兀，到底什麼時候會用這種奇怪的句子？如果教材的例句不能夠幫助教學，就不要使用。要思考要怎麼同時教到語意、理解跟句型，老師應該要有這樣的彈性和能力去處理教材。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>1-「得」課前思考</title>
+        <link>https://teachingmandarin22.github.io/p/1-%E5%BE%97%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</link>
+        <pubDate>Tue, 06 Jun 2023 16:01:23 +0800</pubDate>
+        
+        <guid>https://teachingmandarin22.github.io/p/1-%E5%BE%97%E8%AA%B2%E5%89%8D%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;h1 id=&#34;教案設計的內容主要參考自當代中文課程以新版實用視聽華語為輔&#34;&gt;&lt;strong&gt;教案設計的內容主要參考自《當代中文課程》，以《新版實用視聽華語》為輔。&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;首先我們可以看到「得」的語法出現在第一冊第五課「牛肉麵真好吃」，那個對話情境是一段聊天：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「昨天晚上那家餐廳的菜很好吃，可是有一點辣。」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「我也怕辣，所以我喜歡自己做飯。」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「你做飯做得怎麼樣？」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「我做得不好，你會做飯嗎？」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「會。我的甜點也做得不錯」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「我最喜歡吃甜點。你可以教我嗎？」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「好的，這個週末，你到我家來」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「好啊！謝謝你。」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;因為已經學到了第五課，學生會的語法應該有這些：
+&lt;ul&gt;
+&lt;li&gt;A-not A&lt;/li&gt;
+&lt;li&gt;嗎？&lt;/li&gt;
+&lt;li&gt;不&lt;/li&gt;
+&lt;li&gt;很&lt;/li&gt;
+&lt;li&gt;呢&lt;/li&gt;
+&lt;li&gt;L2 的&lt;/li&gt;
+&lt;li&gt;有&lt;/li&gt;
+&lt;li&gt;都&lt;/li&gt;
+&lt;li&gt;個、張、塊、杯、支、種（量詞）&lt;/li&gt;
+&lt;li&gt;去&lt;/li&gt;
+&lt;li&gt;也、都、常&lt;/li&gt;
+&lt;li&gt;吧&lt;/li&gt;
+&lt;li&gt;幫&lt;/li&gt;
+&lt;li&gt;的&lt;/li&gt;
+&lt;li&gt;太…了&lt;/li&gt;
+&lt;li&gt;能&lt;/li&gt;
+&lt;li&gt;多&lt;/li&gt;
+&lt;li&gt;L5 有一點&lt;/li&gt;
+&lt;li&gt;得&lt;/li&gt;
+&lt;li&gt;會&lt;/li&gt;
+&lt;li&gt;到&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;可以談論的話題應會有：
+&lt;ul&gt;
+&lt;li&gt;自我介紹，包含國籍&lt;/li&gt;
+&lt;li&gt;簡單的興趣（聽音樂、運動、打網球、打棒球、游泳、踢足球、看電影）&lt;/li&gt;
+&lt;li&gt;點餐，包含價錢（數字）、內用外帶，要不要微波。&lt;/li&gt;
+&lt;li&gt;買手機，談價錢，評論貴或便宜&lt;/li&gt;
+&lt;li&gt;台灣的小吃好不好吃？一些簡單的餐點的名稱&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;綜合起來我的想法會是&#34;&gt;綜合起來，我的想法會是：&lt;/h1&gt;
+&lt;p&gt;一、先跟學生複習「的」究竟在做什麼，課文內容出現的是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「這是一間漂亮的房子」、「這是一杯好喝的茶」、「這是我哥哥的書」、「他的名字是馬安同」、「陳先生的老師姓李」、「我的妹妹是老師」、「好看的照片」….&lt;/li&gt;
+&lt;li&gt;「的」這邊要注意什麼時候該省略，這個之前應該也會教過。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;二、由於課文的對話也是從他「做飯做得怎麼樣？」切入，所以我也先選這個情境切入。&lt;/p&gt;
+&lt;p&gt;既然學生已經「會」了，不知道可不可以先問學生這個人會不會做飯。&lt;/p&gt;
+&lt;p&gt;（只是「在」的語法在第七課，所以不能直接照著圖片問他們在做什麼？）&lt;/p&gt;
+&lt;p&gt;我預想學生的回答會是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我做飯做得很好/不錯/還好/不好。&lt;/li&gt;
+&lt;li&gt;不過這邊有個問題是：學生可能會問「做飯跟做菜」有什麼差別？&lt;/li&gt;
+&lt;li&gt;由於老師的有某些圖片太難找到一樣的了，不知道可不可以照搬貼上orz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;三、接下來選擇的情境我想選「你學中文學得怎麼樣？」，以及以上提過的相關的興趣類組。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;問題：忽然想到最近有個朋友在練車，又或者是跟朋友出去玩的時候，我們的確會問這個話題，詢問「你開車開得怎麼樣？」、「你學開車學得怎麼樣？」，這應該要放到第一類嗎？&lt;/li&gt;
+&lt;li&gt;第二類會讓我混淆，是因為第一類也可以用Ｖ不Ｖ的形式來問，例如「你打籃球打得好不好？你游泳游得好不好？——那天我上課本來想問的是，這些不同的問句形式有可能會讓人混淆，不過因為趕著去上下ㄧ堂課就忘記問了，不好意思。&lt;/li&gt;
+&lt;li&gt;再來第三類情境話輪沒什麼問題，就是：
+&lt;ul&gt;
+&lt;li&gt;「這隻手機賣得很貴/很便宜」&lt;/li&gt;
+&lt;li&gt;「這塊蛋糕/這道菜/這個包子/這碗牛肉麵或湯/這份小籠包或臭豆腐/做得很好吃」&lt;/li&gt;
+&lt;li&gt;「這杯咖啡/茶泡得很好喝」「這本書寫得很好看」、「這張照片拍得很好看/很漂亮」（學生已經學過都了，所以可以提醒學生，這些照片拍得都很好看。」&lt;/li&gt;
+&lt;li&gt;「這部電影拍得怎麼樣？」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;這邊對學生的難點可能在於：一大堆量詞，還有一堆專用的動詞（籃球要用打的，足球要用踢的，電影要用看的，茶要用泡的，可能會超過他們認知負荷？）&lt;/li&gt;
+&lt;li&gt;稍事排列整理一番，這邊作為我鞏固操練的段落。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;四、最後，在互動運用的部分，我做了兩張綜合運用，讓學生能夠表達他們自己的想法。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;安排簡報動畫順序跟找合適的圖片其實蠻花時間的。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
